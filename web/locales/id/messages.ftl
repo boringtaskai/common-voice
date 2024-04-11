@@ -1,7 +1,7 @@
 ## General
 
 yes-receive-emails = Ya, kirimkan saya surel. Saya ingin tetap diberi tahu tentang Proyek Sumbang Suara.
-stayintouch = Kami dari Mozilla sedang membangun sebuah komunitas pada teknologi suara. Kami ingin selalu terhubung dengan pembaruan, sumber-sumber data baru dan mendengarkan lebih banyak lagi tentang bagaimana Anda menggunakan data ini.
+stayintouch = Kami dari Sumbang Suara sedang membangun sebuah komunitas pada teknologi suara. Kami ingin selalu terhubung dengan pembaruan, sumber-sumber data baru dan mendengarkan lebih banyak lagi tentang bagaimana Anda menggunakan data ini.
 privacy-info = Kami menjanjikan penanganan informasi Anda dengan hati-hati. Pelajari lebih lanjut di <privacyLink>Pemberitahuan Privasi</privacyLink> kami.
 return-to-cv = Kembali ke Sumbang Suara
 email-input =
@@ -11,7 +11,7 @@ loading = Memuat…
 email-opt-in-info = Saya bersedia menerima surel seperti pengingat sasaran, pembaruan progres, dan nawala tentang Sumbang Suara.
 email-opt-in-info-title = Bergabunglah dengan milis Sumbang Suara
 email-opt-in-info-sub-with-challenge = Terima email seperti pengingat tantangan dan sasaran, pembaruan kemajuan, dan buletin tentang Sumbang Suara.
-email-opt-in-privacy-v2 = Dengan bersedia menerima surel, Anda menyatakan bahwa Anda OK dengan Mozilla untuk menangani informasi tersebut sesuai yang dijelaskan pada <privacyLink>Kebijakan Privasi<privacyLink> Mozilla.
+email-opt-in-privacy-v2 = Dengan bersedia menerima surel, Anda menyatakan bahwa Anda OK dengan Sumbang Suara untuk menangani informasi tersebut sesuai yang dijelaskan pada <privacyLink>Kebijakan Privasi<privacyLink> Sumbang Suara.
 indicates-required = * Wajib diisi
 not-available-abbreviation = N/A
 
@@ -48,7 +48,8 @@ logout = Keluar
 
 ## Home Page
 
-home-title = Proyek Sumbang Suara adalah inisiatif Mozilla untuk membantu mengajari mesin bagaimana manusia sebenarnya berbicara.
+home-title = Proyek Sumbang Suara adalah untuk membantu mengajari mesin bagaimana manusia sebenarnya berbicara.
+home-cta = Speak up, contribute here!
 home-cta = Bicaralah, berkontribusilah di sini!
 wall-of-text-start = Suara adalah sesuatu yang alami, yang mencerminkan manusia. Itulah kenapa kami sangat tertarik untuk menciptakan teknologi suara yang berguna untuk mesin kami. Tetapi untuk menciptakan sistem suara, dibutuhkan data suara dalam jumlah yang sangat besar.
 wall-of-text-more-mobile = Mayoritas data yang digunakan oleh perusahaan-perusahaan besar nyatanya tidak tersedia untuk mayoritas orang. Kami rasa hal itu dapat menghambat inovasi sehingga kami meluncurkan Proyek Sumbang Suara, sebuah proyek yang membantu menjadikan pengenalan suara agar terbuka bagi siapa saja.
@@ -199,7 +200,7 @@ profile-explanation = Pantau progres Anda dengan sebuah profil dan bantu data su
 thanks-for-account = Terima kasih telah mengkonfimasi akun, sekarang mari buat profil Anda.
 why-demographic = Mengapa ini berpengaruh?
 why-demographic-explanation-2 = Data pengguna yang dianonimkan seperti usia, jenis kelamin, dan logat membantu memperbaiki data suara yang digunakan untuk melatih akurasi mesin pengenalan ucapan. Nama pengguna dan surel Anda tidak akan dikaitkan dengan data yang Anda kirimkan, dan Anda dapat memilih untuk mempublikkan nama pengguna Anda atau menjadikannya anonim.
-accept-privacy = Saya setuju Mozilla mengelola infomasi saya sesuai yang tertera pada <privacyLink>Kebijakan Privasi</privacyLink>
+accept-privacy = Saya setuju Sumbang Suara mengelola infomasi saya sesuai yang tertera pada <privacyLink>Kebijakan Privasi</privacyLink>
 accept-privacy-title = Kebijakan Privasi
 login-identity = Identitas Masuk
 login-signup = Masuk / Daftar
@@ -238,7 +239,7 @@ change-email-setings = Ubah email Anda melalui Pengaturan di bawah Identitas Log
 faq-title = Hal-Hal yang Sering Ditanyakan
 faq-what-cv-q = Apa itu Sumbang Suara?
 faq-what-cv-a =
-    Teknologi pengenalan suara merevolusi cara kita berinteraksi dengan mesin, tetapi sistem yang saat ini tersedia, mahal dan eksklusif. Sumbang Suara adalah bagian dari inisiatif Mozilla untuk membuat teknologi pengenalan suara lebih baik dan lebih mudah diakses untuk semua orang. Sumbang Suara adalah basis data besar yang global dari suara-suara yang disumbangkan yang memungkinkan siapa saja dengan cepat dan mudah melatih aplikasi berkemampuan-bicara kemungkinan dalam setiap bahasa.
+    Teknologi pengenalan suara merevolusi cara kita berinteraksi dengan mesin, tetapi sistem yang saat ini tersedia, mahal dan eksklusif. Sumbang Suara adalah bagian dari inisiatif Sumbang Suara untuk membuat teknologi pengenalan suara lebih baik dan lebih mudah diakses untuk semua orang. Sumbang Suara adalah basis data besar yang global dari suara-suara yang disumbangkan yang memungkinkan siapa saja dengan cepat dan mudah melatih aplikasi berkemampuan-bicara kemungkinan dalam setiap bahasa.
     
     Kami tidak hanya mengumpulkan sampel suara dalam bahasa yang digunakan secara luas, tetapi juga pada mereka yang populasi penuturnya sedikit. Menerbitkan set data suara yang beragam akan memberdayakan pengembang, pengusaha, dan komunitas untuk mengatasi kesenjangan ini. Selain set data Sumbang Suara, kami juga membangun mesin pengenalan ucapan open source yang disebut Deep Speech.
 faq-why-important-q = Mengapa ini penting?
@@ -249,11 +250,11 @@ faq-why-important-a =
 faq-how-get-q = Bagaimana saya bisa mendapatkan data Sumbang Suara?
 faq-how-get-a = Kumpulan data Sumbang Suara tersedia untuk diunduh di bawah lisensi <licenseLink> CC0 </licenseLink> di <datasetLink> laman Kumpulan data kami </datasetLink>. Anda juga dapat mengunduh beberapa set data yang tersedia untuk umum dari laman yang sama.
 faq-when-release2-q = Kapan Anda akan merilis data Sumbang Suara dalam bahasa lain?
-faq-when-release2-a = Versi multi-bahasa dari dataset Sumbang Suara saat ini menjalani proses pemberkasan dan pembersihan yang didukung komunitas. Jika Anda ingin bantu kami menghadirkan Sumbang Suara ke bahasa baru, buka <sentenceCollectorLink>Alat Pengumpul Kalimat</sentenceCollectorLink> untuk menambahkan kalimat baru ke dataset, dan Mozilla <pontoonLink>Pontoon</pontoonLink> untuk menerjemahkan situs web itu sendiri. Bahasa baru ditambahkan ke Sumbang Suara untuk kontribusi suara ketika 5000 kalimat yang disetujui telah dikumpulkan.
-faq-why-mission-q = Mengapa Sumbang Suara merupakan bagian dari misi Mozilla?
-faq-why-mission-a = Mozilla didedikasikan untuk menjaga web tetap terbuka dan dapat diakses oleh semua orang. Untuk melakukan itu kita perlu memberdayakan pembuat web melalui proyek-proyek seperti Sumbang Suara. Teknologi suara sudah mulai berkembang di dikehidupan sehari-hari, kami percaya semua pengguna memiliki hak yang sama untuk dapat menggunakannya. Itu berarti berinvestasi dalam lebih banyak bahasa dan mengakomodasi beragam aksen dan demografi untuk membuat dan menguji teknologi suara. Sumbang Suara adalah sumber daya publik yang tersedia untuk semua orang dan tim dan pengembang Mozilla di seluruh dunia sudah menggunakannya pula pada proyek kami sendiri.
+faq-when-release2-a = Versi multi-bahasa dari dataset Sumbang Suara saat ini menjalani proses pemberkasan dan pembersihan yang didukung komunitas. Jika Anda ingin bantu kami menghadirkan Sumbang Suara ke bahasa baru, buka <sentenceCollectorLink>Alat Pengumpul Kalimat</sentenceCollectorLink> untuk menambahkan kalimat baru ke dataset, dan Sumbang Suara <pontoonLink>Pontoon</pontoonLink> untuk menerjemahkan situs web itu sendiri. Bahasa baru ditambahkan ke Sumbang Suara untuk kontribusi suara ketika 5000 kalimat yang disetujui telah dikumpulkan.
+faq-why-mission-q = Mengapa Sumbang Suara merupakan bagian dari misi Sumbang Suara?
+faq-why-mission-a = Sumbang Suara didedikasikan untuk menjaga web tetap terbuka dan dapat diakses oleh semua orang. Untuk melakukan itu kita perlu memberdayakan pembuat web melalui proyek-proyek seperti Sumbang Suara. Teknologi suara sudah mulai berkembang di dikehidupan sehari-hari, kami percaya semua pengguna memiliki hak yang sama untuk dapat menggunakannya. Itu berarti berinvestasi dalam lebih banyak bahasa dan mengakomodasi beragam aksen dan demografi untuk membuat dan menguji teknologi suara. Sumbang Suara adalah sumber daya publik yang tersedia untuk semua orang dan tim dan pengembang Sumbang Suara di seluruh dunia sudah menggunakannya pula pada proyek kami sendiri.
 faq-what-cv-and-deepspeech-q = Apa perbedaan antara Sumbang Suara dan Deep Speech?
-faq-what-cv-and-deepspeech-a = Kumpulan data Sumbang Suara melengkapi mesin pengenalan suara open source Mozilla, Deep Speech. Versi pertama Deep Speech dirilis pada November 2017 dan terus berkembang sejak saat itu. Bersama dengan set data Sumbang Suara, kami percaya teknologi pengenalan suara open source ini harus tersedia untuk semua orang. Kami berharap teknologi ini akan memungkinkan pengembang membangun beragam produk dan layanan inovatif.
+faq-what-cv-and-deepspeech-a = Kumpulan data Sumbang Suara melengkapi mesin pengenalan suara open source Sumbang Suara, Deep Speech. Versi pertama Deep Speech dirilis pada November 2017 dan terus berkembang sejak saat itu. Bersama dengan set data Sumbang Suara, kami percaya teknologi pengenalan suara open source ini harus tersedia untuk semua orang. Kami berharap teknologi ini akan memungkinkan pengembang membangun beragam produk dan layanan inovatif.
 faq-is-goal-assistant-q = Apakah tujuan Sumbang Suara adalah untuk membangun asisten suara?
 faq-is-goal-assistant-a = Tujuan set data Sumbang Suara adalah untuk memungkinkan siapa saja di dunia membangun pengenalan wicara, pengenalan pembicara, atau jenis aplikasi lain apa pun yang membutuhkan data suara. Asisten suara hanyalah salah satu dari banyak jenis aplikasi yang bisa Anda buat dengan menggunakan set data Sumbang Suara.
 faq-do-want-native-q = Saya bukan penutur jati dan saya memiliki logat bicara, apakah Anda masih menginginkan suara saya?
@@ -275,7 +276,7 @@ faq-where-src-from-2-a =
     
     Anda dapat melihat kalimat sumber kami di <githubLink>folder GitHub</githubLink> ini.
 faq-why-not-ask-read-q = Mengapa Anda tidak meminta orang untuk membaca dari buku atau artikel Wikipedia dalam bahasa yang berbeda?
-faq-why-not-ask-read-a = Untuk membuat data Sumbang Suara semakinberguna, kami telah memutuskan untuk hanya mengizinkan teks sumber yang tersedia di bawah lisensi Creative Commons (CC0). Menggunakan standar CC0 berarti lebih sulit untuk menemukan dan mengumpulkan teks sumber, tetapi memungkinkan siapa pun untuk menggunakan data suara yang dihasilkan tanpa batasan penggunaan atau otorisasi dari Mozilla. Pada akhirnya, kami ingin membuat set data multi-bahasa bermanfaat bagi semua orang, termasuk peneliti, universitas, startup, pemerintah, organisasi tujuan sosial, dan penggemar.
+faq-why-not-ask-read-a = Untuk membuat data Sumbang Suara semakinberguna, kami telah memutuskan untuk hanya mengizinkan teks sumber yang tersedia di bawah lisensi Creative Commons (CC0). Menggunakan standar CC0 berarti lebih sulit untuk menemukan dan mengumpulkan teks sumber, tetapi memungkinkan siapa pun untuk menggunakan data suara yang dihasilkan tanpa batasan penggunaan atau otorisasi dari Sumbang Suara. Pada akhirnya, kami ingin membuat set data multi-bahasa bermanfaat bagi semua orang, termasuk peneliti, universitas, startup, pemerintah, organisasi tujuan sosial, dan penggemar.
 faq-why-account-q = Mengapa saya harus mendaftar akun?
 faq-is-account-public-q = Apakah informasi akun saya bersifat publik?
 faq-how-privacy-q = Bagaimana Anda memastikan anonimitas dan privasi orang-orang yang menyumbangkan suara mereka?
@@ -287,7 +288,7 @@ faq-what-determine-identity-a =
     Semua klip suara dalam set data telah terpisahkan dari informasi pengenal pribadi. Ketika Anda mengunduh set data, Anda setuju untuk tidak mencoba menentukan identitas kontributor manapun. Itu berarti Anda tidak dapat mencoba menautkan informasi dalam set data ke informasi pribadi kontributor. Namun, Anda dapat menggunakan set data untuk melatih pengenalan ucapan, pengenalan pembicara, atau aplikasi lain, dengan, misalnya, menghubungkan informasi dalam set data ke informasi lain yang sudah ada dalam set data.
 faq-what-is-cv = Apa itu Sumbang Suara?
 faq-using-cv = Menggunakan Sumbang Suara
-faq-description = Sumbang Suara adalah bagian dari inisiatif Mozilla untuk membantu mengajari mesin bagaimana manusia sebenarnya berbicara.
+faq-description = Sumbang Suara adalah bagian dari inisiatif Sumbang Suara untuk membantu mengajari mesin bagaimana manusia sebenarnya berbicara.
 faq-search-for-answers =
     .label = Cari jawaban
 
