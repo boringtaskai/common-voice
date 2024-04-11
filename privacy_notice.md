@@ -1,10 +1,10 @@
 # Pemberitahuan Privasi Sumbang Suara 
 
-Berlaku 15 Agustus 2019 {: datetime="2019-08-15" }
+Berlaku 11 April 2024 {: datetime="2024-04-11" }
 
 ## Privasi
 
-Ketika Mozilla (kami) menerima informasi dari Anda, [Kebijakan Privasi Mozilla](https://www.sumbangsuara.org/privacy) kami menjelaskan cara kami menangani informasi tersebut.
+Ketika Sumbang Suara (kami) menerima informasi dari Anda, [Kebijakan Privasi Sumbang Suara](https://www.sumbangsuara.org/privacy) kami menjelaskan cara kami menangani informasi tersebut.
 
 * **Data demografis.** Anda bisa secara opsional mengirimi kami informasi seperti logat, usia, dan jenis kelamin Anda. Informasi ini akan membantu kami dan para peneliti lain dalam menyempurnakan dan mengembangkan teknologi dan perangkat ucapan-ke-teks.
 
