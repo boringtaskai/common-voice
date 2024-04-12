@@ -34,7 +34,7 @@ const LanguageSelect = ({ locale, onChange, value, includesAll }: Props) => {
   // don't show select if we dont have multiple locales
   if (localesWithNames.length <= 1) {
     return null;
-  }
+  }  
 
   return (
     <LocalizedGetAttribute id="localization-select" attribute="label">
@@ -67,7 +67,7 @@ const LanguageSelect = ({ locale, onChange, value, includesAll }: Props) => {
 };
 
 LanguageSelect.defaultProps = {
-  includesAll: true,
+  includesAll: false,
 };
 
 export default LanguageSelect;

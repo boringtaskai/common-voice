@@ -49,6 +49,7 @@ export type CommonVoiceConfig = {
   FLAG_BUFFER_STREAM_ENABLED: boolean;
   EMAIL_USERNAME_FROM: string;
   EMAIL_USERNAME_TO: string;
+  FILTERED_LANGUAGES: string;
 };
 
 // eslint-disable-next-line @typescript-eslint/no-explicit-any
@@ -112,6 +113,7 @@ const BASE_CONFIG: CommonVoiceConfig = {
   ),
   EMAIL_USERNAME_FROM: configEntry('CV_EMAIL_USERNAME_FROM', null),
   EMAIL_USERNAME_TO: configEntry('CV_EMAIL_USERNAME_TO', null),
+  FILTERED_LANGUAGES: configEntry('CV_FILTERED_LANGUAGES', null),
 };
 
 let injectedConfig: CommonVoiceConfig;

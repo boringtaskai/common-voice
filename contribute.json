@@ -1,6 +1,6 @@
 {
-  "name": "Common Voice",
-  "description": "Common Voice is Mozilla's initiative to help teach machines how real people speak.",
+  "name": "Sumbang Suara",
+  "description": "Sumbang Suara is to help teach machines how real people speak.",
   "repository": {
     "url": "https://github.com/mozilla/common-voice",
     "license": "MPL2",

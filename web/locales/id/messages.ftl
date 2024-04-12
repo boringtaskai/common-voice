@@ -432,6 +432,7 @@ number-of-voices = Jumlah Suara
 splits = Pisahkan
 email-to-download = Masukkan Surel untuk mengunduh
 why-email = <b> Mengapa surel? </b> Kami mungkin perlu menghubungi Anda di masa depan mengenai perubahan pada set data, surel menyediakan akses kontak.
+why-donate-datasets-page = Sumbang Suara adalah platform digital untuk pengumpulan suara dengan logat khas dari masing-masing daerah di Indonesia yang berguna untuk 'machine learning', dan untuk menyelamatkan berbagai macam bahasa daerah yang ada di Indonesia agar tidak punah di tengah serbuan A.I. Untuk menjalankan platform ini diperlukan hampir 100 juta rupiah per bulan. Jika Anda mempunyai visi yang sama dengan kami - <b>donasi yuks!</b>
 confirm-size = Anda siap untuk memulai unduhan <b> { $size } </b>
 size-gigabyte = GB
 size-megabyte = MB
@@ -819,3 +820,12 @@ demo-dashboard-card-body = Untuk setiap klip suara yang disumbangkan, dan setiap
 # [/SentenceCollector]
 
 sentence-collection = Koleksi Kalimat
+
+## Donate banner
+# Text wrapped in <mark></mark> will have a white background. 
+donate-banner-cta = <mark>Kami butuh</mark><br/><mark>bantuan kamu!</mark>
+# Text wrapped in <strong></strong> will be rendered on bold font
+donate-banner-cta-explanation = Sumbang Suara adalah platform digital untuk pengumpulan suara dengan logat khas dari berbagai daerah di Indonesia untuk diubah menjadi dataset. Visi kami adalah menyelamatkan berbagai macam bahasa daerah yang ada di Indonesia agar tidak punah di tengah serbuan A.I. dari luar negeri. Untuk menjalankan platform ini diperlukan hampir 100 juta rupiah per bulan. Jika Anda mempunyai visi yang sama dengan kami - <b>donasi yuks!</b>
+# Text wrapped in <mark></mark> will have a white background.
+languages-donate-banner-cta = <mark>Kamu mmembutuhkan Sumbang Suara untuk</mark><br/><mark>penelitian kamu?</mark>
+languages-donate-banner-cta-explanation = Sumbang Suara dibiayai oleh donasi dari donatur! Kami senang untuk bekerjasama dengan akademisi, lembaga penelitian, kami bisa menyediakan untuk kamu, kami sangat berharap donasi dari kamu, sehingga kami bisa terus membiayai platform ini.

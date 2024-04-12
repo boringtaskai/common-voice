@@ -1,5 +1,6 @@
 import fetch from 'node-fetch';
 import { getMySQLInstance } from './mysql';
+import { getConfig } from '../../../config-helper';
 import { parse } from '@fluent/syntax';
 import * as path from 'path';
 import * as fs from 'fs';
@@ -238,6 +239,8 @@ const fetchPontoonLanguages = async (): Promise<any[]> => {
   const { data } = await response.json();
   const localizations: PontoonData[] = data.project.localizations;
 
+  let filteredLanguages = getConfig().FILTERED_LANGUAGES.split(",");
+
   return localizations
     .map(({ totalStrings, approvedStrings, locale }) => ({
       code: locale.code,
@@ -245,6 +248,7 @@ const fetchPontoonLanguages = async (): Promise<any[]> => {
       translated: approvedStrings / totalStrings,
       direction: locale.direction,
     }))
+    .filter(x => (filteredLanguages == null || filteredLanguages.includes(x.code)))
     .concat({ code: 'en', name: 'English', translated: 1, direction: 'LTR' })
     .sort((l1, l2) => l1.code.localeCompare(l2.code));
 };
@@ -252,7 +256,7 @@ const fetchPontoonLanguages = async (): Promise<any[]> => {
 export async function importLocales() {
   console.log('Importing languages...');
   const locales = await fetchPontoonLanguages();
-  console.log('Got Pontoon Languages');
+  console.log('Got Pontoon Languages, filtered language: ', locales);
   const nativeNames = buildLocaleNativeNameMapping();
   console.log('Built native names');
   saveToMessages(locales);
