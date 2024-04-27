@@ -6,9 +6,9 @@ Berlaku 11 April 2024 {: datetime="2024-04-11" }
 
 Ketika Sumbang Suara (kami) menerima informasi dari Anda, [Kebijakan Privasi Sumbang Suara](https://www.sumbangsuara.org/privacy) kami menjelaskan cara kami menangani informasi tersebut.
 
-* **Data demografis.** Anda bisa secara opsional mengirimi kami informasi seperti logat, usia, dan jenis kelamin Anda. Informasi ini akan membantu kami dan para peneliti lain dalam menyempurnakan dan mengembangkan teknologi dan perangkat ucapan-ke-teks.
+* **Data demografis.** Anda bisa secara opsional mengirimkan kami informasi seperti logat, usia, dan jenis kelamin Anda. Informasi ini akan membantu kami dan para peneliti lain dalam menyempurnakan dan mengembangkan teknologi dan perangkat ucapan-ke-teks.
 
-* **Data akun.** Anda tidak perlu membuat akun untuk menggunakan Sumbang Suara. Jika Anda memutuskan untuk membuat akun, kami menerima nama pengguna dan avatar, jika Anda mengirimkannya. Alamat email Anda terkait dengan data interaksi dan demografis, tetapi tidak dibagikan ke publik. Kami menampilkan papan peringkat yang menunjukkan jumlah rekaman yang dibuat pengguna. Anda memiliki opsi untuk ditampilkan di papan peringkat atau tidak. Anda dapat menghapus akun kapan saja, sehingga nama pengguna dan email Anda akan dihapus.
+* **Data akun.** Anda tidak perlu membuat akun untuk menggunakan Sumbang Suara. Jika Anda memutuskan untuk membuat akun, kami menerima nama pengguna dan avatar, jika Anda mengirimkannya. Alamat email Anda terkait dengan data interaksi dan demografis tidak dibagikan ke publik. Kami menampilkan papan peringkat yang menunjukkan jumlah rekaman yang dibuat pengguna. Anda memiliki opsi untuk ditampilkan di papan peringkat atau tidak. Anda dapat menghapus akun kapan saja, sehingga nama pengguna dan email Anda akan dihapus.
 
 * **Buletin.** Anda dapat berlangganan buletin kami. Dengan begitu, kami akan menerima alamat email Anda. Anda dapat berhenti berlangganan kapan saja, sehingga email Anda akan dihapus dari daftar distribusi buletin.
 

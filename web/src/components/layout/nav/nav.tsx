@@ -58,7 +58,7 @@ const Nav: React.FC<NavProps> = ({
         <span className="divider" />
         <div className={shouldExpandNavItems ? 'fade-in' : 'fade-out'}>
           <>
-            <LocalizedNavLink id="datasets" to={URLS.DATASETS} />
+            {/* <LocalizedNavLink id="datasets" to={URLS.DATASETS} /> */}
             <LocalizedNavLink id="languages" to={URLS.LANGUAGES} />
             <LocalizedNavLink id="partner" to={URLS.PARTNER} />
             <LocalizedNavLink id="about" to={URLS.ABOUT} />

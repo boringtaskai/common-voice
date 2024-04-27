@@ -358,8 +358,9 @@ faq-search-for-answers =
 
 ## ABOUT US
 about-title = Why Sumbang Suara?
-about-header-description-v2 = <p>Sumbang Suara is a publicly available voice dataset, powered by the voices of volunteer contributors around the world. People who want to build voice applications can use the dataset to train machine learning models.</p>
-    <p>At present, most voice datasets are owned by companies, which stifles innovation. Voice datasets also underrepresent: non-English speakers, people of colour, disabled people, women and LGBTQIA+ people. This means that voice-enabled technology doesn’t work at all for many languages, and where it does work, it may not perform equally well for everyone. We want to change that by mobilising people everywhere to share their voice.</p>
+about-header-description-v2 = <p>Sumbang Suara is a publicly available voice dataset, powered by the voices of volunteer contributors around Indonesia. People who want to build voice applications can use the dataset to train machine learning models.</p>
+    <p>We want to mobilising people in Indonesia to share their voice for machine learning, and we also want to preserve regional languages in Indonesia, so that future generations can know and use regional languages from ancestors throughout Indonesia</p>
+    <p>Currently Sumbang Suara is funded by several individuals who are concerned about the extinction of regional languages in Indonesia.</p>
 
 how-does-it-work-title-v2 = How does Sumbang Suara work?
 how-does-it-work-text = We’re crowdsourcing an open-source dataset of voices. Donate your voice, validate the accuracy of other people’s clips, make the dataset better for everyone.
@@ -1394,7 +1395,7 @@ sc-validation-no-abbreviations = Sentence should not contain abbreviations
 # [/SentenceCollector]
 
 localization-select =
-  .label = Choose language/localization
+  .label = Choose language
 
 # PARTNERSHIPS PAGE
 partnerships-header = Partnerships
