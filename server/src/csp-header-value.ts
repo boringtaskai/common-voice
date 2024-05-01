@@ -47,7 +47,7 @@ const SOURCES = {
     "'sha256-dWOqg9lnJct6KNFyy8RWWvxwrKvHVzzxWdDufqcgdSY='",
     "'sha256-b+mf6EIMFYxuAIdk6/2IF09zTUsJrlW6qZaw4opG6QU='",
     'https://*.google-analytics.com',
-    'https://pontoon.mozilla.org',
+    'https://pontoon.sumbangsuara.org',
     'https://*.sentry.io',
     'https://tagmanager.google.com',
     '*.googletagmanager.com',
@@ -69,7 +69,7 @@ const SOURCES = {
   'connect-src': [
     "'self'",
     'blob:',
-    'https://pontoon.mozilla.org/graphql',
+    'https://pontoon.sumbangsuara.org/graphql',
     'https://*.amazonaws.com',
     'https://*.amazon.com',
     'https://*.googleapis.com',

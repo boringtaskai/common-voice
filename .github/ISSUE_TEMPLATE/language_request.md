@@ -8,11 +8,11 @@ assignees: 'ftyers'
 
 # Welcome to the Common Voice Community !
 
-> Common Voice aims to make speech technology accessible to everyone by building an open sourced dataset of labelled voice data that is representative of languages, variants and accents spoken across the world. This template helps us to know how your language could participate in the Common Voice Project. There are three sections of this form, once you have filled out a section please click the checkbox. If you have any issues please contact <commonvoice@mozilla.org>.
+> Common Voice aims to make speech technology accessible to everyone by building an open sourced dataset of labelled voice data that is representative of languages, variants and accents spoken across the world. This template helps us to know how your language could participate in the Common Voice Project. There are three sections of this form, once you have filled out a section please click the checkbox. If you have any issues please contact <commonvoice@sumbangsuara.org>.
 
 ## Pontoon Set-up
 
-> To start a language on Common Voice volunteers localise our platform [via Pontoon](https://pontoon.mozilla.org/projects/common-voice/) and create sentence corpus’ of cc0 text. </p>
+> To start a language on Common Voice volunteers localise our platform [via Pontoon](https://pontoon.sumbangsuara.org/projects/common-voice/) and create sentence corpus’ of cc0 text. </p>
 
 **Language name**
 

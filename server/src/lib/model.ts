@@ -109,7 +109,7 @@ const getAverageSecondsPerClip = (locale: string) =>
 // TODO: Update startup script to save % and retreive from database
 function fetchLocalizedPercentagesByLocale(): Promise<any> {
   return request({
-    uri: 'https://pontoon.mozilla.org/graphql?query={project(slug:%22common-voice%22){localizations{totalStrings,approvedStrings,locale{code}}}}',
+    uri: 'https://pontoon.sumbangsuara.org/graphql?query={project(slug:%22common-voice%22){localizations{totalStrings,approvedStrings,locale{code}}}}',
     method: 'GET',
     json: true,
     // eslint-disable-next-line @typescript-eslint/no-explicit-any

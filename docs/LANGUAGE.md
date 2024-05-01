@@ -11,7 +11,7 @@ These two things can occur simultaneously
 
 In order for a new language to be activated on Common Voice, it must be at least 75% localized in that given language.
 
-We use the [Mozilla localization platform Pontoon](https://pontoon.mozilla.org/projects/common-voice/) to handle translations of the web interface. Use the project page to find your language community and help submit new translations. If your language is not available for translation on Pontoon, you can request for it to be added by submitting a new issue using the [language requests template](https://github.com/mozilla/common-voice/issues/new?assignees=&labels=&template=language_request.md&title=).
+We use the [Sumbang Suara localization platform Pontoon](https://pontoon.sumbangsuara.org/projects/common-voice/) to handle translations of the web interface. Use the project page to find your language community and help submit new translations. If your language is not available for translation on Pontoon, you can request for it to be added by submitting a new issue using the [language requests template](https://github.com/boringtaskai/common-voice/issues/new?assignees=&labels=&template=language_request.md&title=).
 
 For more information on how Common Voice approaches language and accents, please refer to our [language and accent strategy](https://discourse.mozilla.org/t/common-voice-languages-and-accent-strategy-v5/56555).
 
@@ -27,6 +27,4 @@ As more people contribute to a language, more sentences are needed. Please refer
 
 ## Status
 
-To see the current progress of a language, please refer to the [language stats](https://commonvoice.mozilla.org/en/languages) page on the website.
-
-For more information about the language lifecycle, refer to [this Discourse post](https://discourse.mozilla.org/t/readme-how-to-see-my-language-on-common-voice/31530/1)
+To see the current progress of a language, please refer to the [language stats](https://commonvoice.sumbangsuara.org/en/languages) page on the website.

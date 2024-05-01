@@ -234,7 +234,7 @@ const buildLocaleNativeNameMapping: any = () => {
 
 const fetchPontoonLanguages = async (): Promise<any[]> => {
   const url =
-    'https://pontoon.mozilla.org/graphql?query={project(slug:%22common-voice%22){localizations{totalStrings,approvedStrings,locale{code,name,direction}}}}';
+    'https://pontoon.sumbangsuara.org/graphql?query={project(slug:%22common-voice%22){localizations{totalStrings,approvedStrings,locale{code,name,direction}}}}';
   const response = await fetch(url);
   const { data } = await response.json();
   const localizations: PontoonData[] = data.project.localizations;

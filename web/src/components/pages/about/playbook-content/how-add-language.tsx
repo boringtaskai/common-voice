@@ -39,10 +39,10 @@ const HowAddLanguage = React.memo(({ getFragment }: { getFragment: any }) => (
     <Localized
       id="about-playbook-how-add-language-translating-content-2"
       elems={{
-        pontoonLink: <a href="http://pontoon.mozilla.org/" />,
-        pontoonRequestLink: <a href="https://pontoon.mozilla.org/teams/" />,
+        pontoonLink: <a href="http://pontoon.sumbangsuara.org/" />,
+        pontoonRequestLink: <a href="https://pontoon.sumbangsuara.org/teams/" />,
         githubRepoLink: (
-          <a href="https://github.com/common-voice/common-voice/issues/new?assignees=&labels=&template=language_request.md&title=" />
+          <a href="https://github.com/boringtaskai/common-voice/issues/new?assignees=&labels=&template=language_request.md&title=" />
         ),
         localizationFragment: getFragment(PLAYBOOK.HOW_LOCALIZE),
       }}>

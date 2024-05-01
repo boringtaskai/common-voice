@@ -17,14 +17,14 @@ const HowLocalize = React.memo(() => {
           strong,
           pontoonAccountLink: (
             <a
-              href="https://pontoon.mozilla.org/accounts/fxa/login/"
+              href="https://pontoon.sumbangsuara.org/accounts/fxa/login/"
               target="_blank"
               rel="noopener noreferer"
             />
           ),
           pontoonCvLink: (
             <a
-              href="https://pontoon.mozilla.org/projects/common-voice/"
+              href="https://pontoon.sumbangsuara.org/projects/common-voice/"
               target="_blank"
               rel="noopener noreferer"
             />
