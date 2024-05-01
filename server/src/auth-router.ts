@@ -78,10 +78,10 @@ if (DOMAIN) {
       callbackURL:
         ((
           {
-            stage: 'https://commonvoice.allizom.org',
-            prod: 'https://commonvoice.mozilla.org',
-            dev: 'https://dev.voice.mozit.cloud',
-            sandbox: 'https://sandbox.commonvoice.allizom.org',
+            stage: 'https://stage.sumbangsuara.org',
+            prod: 'https://sumbangsuara.org',
+            dev: 'https://dev.sumbangsuara.org',
+            sandbox: 'https://sandbox.sumbangsuara.org',
           } as any
         )[ENVIRONMENT] || '') + CALLBACK_URL,
       scope: 'openid email',

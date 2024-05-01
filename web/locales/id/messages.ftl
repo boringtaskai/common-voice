@@ -1,16 +1,16 @@
 ## General
 
-yes-receive-emails = Ya, kirimkan saya surel. Saya ingin tetap diberi tahu tentang Proyek Common Voice.
+yes-receive-emails = Ya, kirimkan saya surel. Saya ingin tetap diberi tahu tentang Proyek Sumbang Suara.
 stayintouch = Kami dari Mozilla sedang membangun sebuah komunitas pada teknologi suara. Kami ingin selalu terhubung dengan pembaruan, sumber-sumber data baru dan mendengarkan lebih banyak lagi tentang bagaimana Anda menggunakan data ini.
 privacy-info = Kami menjanjikan penanganan informasi Anda dengan hati-hati. Pelajari lebih lanjut di <privacyLink>Pemberitahuan Privasi</privacyLink> kami.
-return-to-cv = Kembali ke Common Voice
+return-to-cv = Kembali ke Sumbang Suara
 email-input =
     .label = Surel
 submit-form-action = Kirim
 loading = Memuat…
-email-opt-in-info = Saya bersedia menerima surel seperti pengingat sasaran, pembaruan progres, dan nawala tentang Common Voice.
-email-opt-in-info-title = Bergabunglah dengan milis Common Voice
-email-opt-in-info-sub-with-challenge = Terima email seperti pengingat tantangan dan sasaran, pembaruan kemajuan, dan buletin tentang Common Voice.
+email-opt-in-info = Saya bersedia menerima surel seperti pengingat sasaran, pembaruan progres, dan nawala tentang Sumbang Suara.
+email-opt-in-info-title = Bergabunglah dengan milis Sumbang Suara
+email-opt-in-info-sub-with-challenge = Terima email seperti pengingat tantangan dan sasaran, pembaruan kemajuan, dan buletin tentang Sumbang Suara.
 email-opt-in-privacy-v2 = Dengan bersedia menerima surel, Anda menyatakan bahwa Anda OK dengan Mozilla untuk menangani informasi tersebut sesuai yang dijelaskan pada <privacyLink>Kebijakan Privasi<privacyLink> Mozilla.
 indicates-required = * Wajib diisi
 not-available-abbreviation = N/A
@@ -20,148 +20,8 @@ not-available-abbreviation = N/A
 
 
 ## Languages
-
-ab = Abkhaz
-ace = Bahasa Aceh
-ady = Adyghe
-af = Bahasa Afrikaans
-am = Amharic
-an = Bahasa Aragon
-ar = Bahasa Arab
-arn = Bahasa Mapudungun
-as = Bahasa Assam
-ast = Bahasa Asturia
-az = Bahasa Azeri
-ba = Bahasa Bashkir
-bas = Bahasa Basaa
-be = Bahasa Belarusia
-bg = Bahasa Bulgaria
-bn = Bahasa Bengali
-br = Bahasa Breton
-bs = Bahasa Bosnia
-bxr = Bahasa Buryat
-ca = Bahasa Katalan
-cak = Bahasa Kaqchikel
-ckb = Bahasa Kurdi Tengah
-cnh = Bahasa Hakha Chin
-co = Bahasa Korsika
-cs = Bahasa Ceko
-cv = Bahasa Chuvash
-cy = Bahasa Wales
-da = Bahasa Denmark
-de = Bahasa Jerman
-dsb = Bahasa Sorbia Hilir
-dv = Dhivehi
-dyu = Bahasa Dioula
-el = Bahasa Yunani
 en = Bahasa Inggris
-eo = Bahasa Esperanto
-es = Bahasa Spanyol
-et = Bahasa Estonia
-eu = Bahasa Basque
-fa = Bahasa Persia
-ff = Bahasa Fulah
-fi = Bahasa Finlandia
-fo = Bahasa Faroe
-fr = Bahasa Perancis
-fy-NL = Bahasa Frisia
-ga-IE = Bahasa Irlandia
-gl = Bahasa Galisia
-gn = Bahasa Guarani
-ha = Bahasa Hausa
-he = Bahasa Ibrani
-hi = Bahasa Hindi
-hr = Bahasa Kroasia
-hsb = Bahasa Sorbia Hulu
-ht = Bahasa Haiti
-hu = Bahasa Hongaria
-hy-AM = Bahasa Armenia
-hyw = Bahasa Armenia Barat
-ia = Bahasa Interlingua
 id = Bahasa Indonesia
-is = Bahasa Islandia
-it = Bahasa Italia
-izh = Bahasa Izhoria
-ja = Bahasa Jepang
-ka = Bahasa Georgia
-kaa = Bahasa Karakalpak
-kab = Bahasa Kabyle
-kbd = Bahasa Kabardian
-kk = Bahasa Kazak
-kmr = Bahasa Kurdi Kurmanji
-ko = Bahasa Korea
-kpv = Bahasa Komi-Zyrian
-kw = Bahasa Kornish
-ky = Bahasa Kirgiz
-lg = Bahasa Luganda
-lij = Bahasa Liguria
-lt = Bahasa Lituania
-lv = Bahasa Latvia
-mai = Bahasa Maithili
-mdf = Bahasa Moksha
-mg = Bahasa Malagasi
-mhr = Meadow Mari
-mk = Bahasa Makedonia
-ml = Bahasa Malayalam
-mn = Bahasa Mongol
-mos = Bahasa Mossi
-mr = Bahasa Marathi
-mrj = Hill Mari
-ms = Bahasa Melayu
-mt = Bahasa Malta
-my = Bahasa Myanmar
-myv = Bahasa Erzya
-nb-NO = Bahasa Bokmal (Norwegia)
-ne-NP = Bahasa Nepal
-nia = Bahasa Nias
-nl = Bahasa Belanda
-nn-NO = Bahasa Nynorsk (Norwegia)
-oc = Bahasa Oksitan
-or = Bahasa Oriya
-pa-IN = Bahasa Punjabi
-pap-AW = Bahasa Papiamento (Aruba)
-pl = Bahasa Polandia
-ps = Bahasa Pashto
-pt = Bahasa Portugis
-rm-sursilv = Bahasa Romansh Sursilvan
-rm-vallader = Bahasa Romansh Vallader
-ro = Bahasa Rumania
-ru = Bahasa Rusia
-rw = Bahasa Kinyarwanda
-sah = Bahasa Sakha
-sc = Bahasa Sardinia
-scn = Bahasa Sisilia
-shi = Bahasa Shilha
-si = Bahasa Sinhala
-sk = Bahasa Slowakia
-sl = Bahasa Slovenia
-so = Bahasa Somalia
-sq = Bahasa Albania
-sr = Bahasa Serbia
-sv-SE = Bahasa Swedia
-sw = Bahasa Swahili
-syr = Bahasa Suryani
-ta = Bahasa Tamil
-te = Bahasa Telugu
-tg = Bahasa Tajik
-th = Bahasa Thai
-tl = Bahasa Tagalog
-tr = Bahasa Turki
-tt = Bahasa Tatar
-uby = Ubykh
-udm = Udmurt
-ug = Bahasa Uighur
-uk = Bahasa Ukraina
-ur = Bahasa Urdu
-uz = Bahasa Uzbek
-vec = Bahasa Venesia
-vi = Bahasa Vietnam
-vot = Votik
-yue = Bahasa Kanton
-zh-CN = Bahasa Tionghoa (Tiongkok)
-zh-HK = Bahasa Tiongkok (Hong Kong)
-zh-TW = Bahasa Tionghoa (Taiwan)
-
 # [/]
 
 
@@ -188,15 +48,15 @@ logout = Keluar
 
 ## Home Page
 
-home-title = Proyek Common Voice adalah inisiatif Mozilla untuk membantu mengajari mesin bagaimana manusia sebenarnya berbicara.
+home-title = Proyek Sumbang Suara adalah inisiatif Mozilla untuk membantu mengajari mesin bagaimana manusia sebenarnya berbicara.
 home-cta = Bicaralah, berkontribusilah di sini!
 wall-of-text-start = Suara adalah sesuatu yang alami, yang mencerminkan manusia. Itulah kenapa kami sangat tertarik untuk menciptakan teknologi suara yang berguna untuk mesin kami. Tetapi untuk menciptakan sistem suara, dibutuhkan data suara dalam jumlah yang sangat besar.
-wall-of-text-more-mobile = Mayoritas data yang digunakan oleh perusahaan-perusahaan besar nyatanya tidak tersedia untuk mayoritas orang. Kami rasa hal itu dapat menghambat inovasi sehingga kami meluncurkan Proyek Common Voice, sebuah proyek yang membantu menjadikan pengenalan suara agar terbuka bagi siapa saja.
+wall-of-text-more-mobile = Mayoritas data yang digunakan oleh perusahaan-perusahaan besar nyatanya tidak tersedia untuk mayoritas orang. Kami rasa hal itu dapat menghambat inovasi sehingga kami meluncurkan Proyek Sumbang Suara, sebuah proyek yang membantu menjadikan pengenalan suara agar terbuka bagi siapa saja.
 wall-of-text-more-desktop =
     Kini Anda dapat menyumbangkan suara guna membantu kami membangun basis data suara sumber terbuka yang dapat digunakan oleh siapa saja untuk membuat aplikasi yang inovatif untuk peranti dan web.<lineBreak></lineBreak>
     Baca satu kalimat untuk membantu mesin mempelajari bagaimana manusia sesungguhnya berbicara. Periksa hasil kerja kontributor lainnya untuk memperbaiki mutu. Sesederhana itu!
 wall-of-text-first = Suara itu alami, suara itu manusiawi. Itulah mengapa kami bersemangat dalam menciptakan teknologi suara yang berguna bagi mesin kami. Namun, untuk membangun sistem suara, para pengembang butuh data suara yang sangat besar jumlahnya.
-wall-of-text-second = Mayoritas data yang digunakan oleh perusahaan-perusahaan besar nyatanya tidak tersedia untuk mayoritas orang. Kami rasa hal itu dapat menghambat inovasi sehingga kami meluncurkan Proyek Common Voice, sebuah proyek yang membantu menjadikan pengenalan suara agar terbuka dan dapat diakses oleh siapa saja.
+wall-of-text-second = Mayoritas data yang digunakan oleh perusahaan-perusahaan besar nyatanya tidak tersedia untuk mayoritas orang. Kami rasa hal itu dapat menghambat inovasi sehingga kami meluncurkan Proyek Sumbang Suara, sebuah proyek yang membantu menjadikan pengenalan suara agar terbuka dan dapat diakses oleh siapa saja.
 show-wall-of-text = Baca Lebih Lanjut
 help-us-title = Bantu kami memvalidasi kalimat!
 help-us-explain = Tekan mulai, dengarkan, dan beri tahu kami: apakah mereka sudah mengucapkan kalimat di bawah ini dengan akurat?
@@ -208,7 +68,7 @@ speak-subtitle = Sumbangkan suara Anda
 speak-paragraph = Merekam klip suara merupakan bagian yang tak terpisahkan dalam membangun himpunan data terbuka kami; sebagian orang juga berkata bahwa inilah bagian menyenangkannya.
 speak-goal-text = Klip direkam
 listen-subtitle = Bantu kami memvalidasi suara
-listen-paragraph = Memvalidasi klip donasi sama pentingnya bagi misi Common Voice. Dengarkan klip dan bantu kami mewujudkan data suara sumber terbuka yang bermutu.
+listen-paragraph = Memvalidasi klip donasi sama pentingnya bagi misi Sumbang Suara. Dengarkan klip dan bantu kami mewujudkan data suara sumber terbuka yang bermutu.
 listen-goal-text = Klip divalidasi
 hours-recorded = Jam Terekam
 hours-validated = Jam Tervalidasi
@@ -234,7 +94,7 @@ x-years-short =
 help-make-dataset = Bantu kami membangun himpunan data yang terbuka untuk umum dan berkualitas tinggi
 sign-up-account = Daftarkan akun
 email-subscription-title = berlangganan pemberitahuan melalui surel
-email-subscription-title-new = Daftar untuk nawala, pengingat target, dan pembaruan progres Common Voice
+email-subscription-title-new = Daftar untuk nawala, pengingat target, dan pembaruan progres Sumbang Suara
 
 ## Account Benefits
 
@@ -283,7 +143,7 @@ shortcut-rerecord-toggle = [1-5]
 shortcut-rerecord-toggle-label = Rekam ulang klip
 shortcut-submit = Kembali
 shortcut-submit-label = Kirimkan klip
-request-language-text = Belum melihat bahasa Anda di Common Voice?
+request-language-text = Belum melihat bahasa Anda di Sumbang Suara?
 request-language-button = Ajukan Bahasa
 
 ## ProjectStatus
@@ -326,7 +186,7 @@ female = Perempuan
 # Gender
 other = Lainnya
 why-profile-title = Untuk apa profil?
-why-profile-text = Dengan menyediakan informasi mengenai diri Anda, data audio yang Anda kirimkan ke Common Voice akan lebih berguna bagi mesin Pengenal Ucapan yang memanfaatkan data ini untuk meningkatkan akurasinya.
+why-profile-text = Dengan menyediakan informasi mengenai diri Anda, data audio yang Anda kirimkan ke Sumbang Suara akan lebih berguna bagi mesin Pengenal Ucapan yang memanfaatkan data ini untuk meningkatkan akurasinya.
 dashboard = Dasbor
 build-profile = Bangun Profil
 avatar = Avatar
@@ -376,38 +236,38 @@ change-email-setings = Ubah email Anda melalui Pengaturan di bawah Identitas Log
 ## FAQ
 
 faq-title = Hal-Hal yang Sering Ditanyakan
-faq-what-cv-q = Apa itu Common Voice?
+faq-what-cv-q = Apa itu Sumbang Suara?
 faq-what-cv-a =
-    Teknologi pengenalan suara merevolusi cara kita berinteraksi dengan mesin, tetapi sistem yang saat ini tersedia, mahal dan eksklusif. Common Voice adalah bagian dari inisiatif Mozilla untuk membuat teknologi pengenalan suara lebih baik dan lebih mudah diakses untuk semua orang. Common Voice adalah basis data besar yang global dari suara-suara yang disumbangkan yang memungkinkan siapa saja dengan cepat dan mudah melatih aplikasi berkemampuan-bicara kemungkinan dalam setiap bahasa.
+    Teknologi pengenalan suara merevolusi cara kita berinteraksi dengan mesin, tetapi sistem yang saat ini tersedia, mahal dan eksklusif. Sumbang Suara adalah bagian dari inisiatif Mozilla untuk membuat teknologi pengenalan suara lebih baik dan lebih mudah diakses untuk semua orang. Sumbang Suara adalah basis data besar yang global dari suara-suara yang disumbangkan yang memungkinkan siapa saja dengan cepat dan mudah melatih aplikasi berkemampuan-bicara kemungkinan dalam setiap bahasa.
     
-    Kami tidak hanya mengumpulkan sampel suara dalam bahasa yang digunakan secara luas, tetapi juga pada mereka yang populasi penuturnya sedikit. Menerbitkan set data suara yang beragam akan memberdayakan pengembang, pengusaha, dan komunitas untuk mengatasi kesenjangan ini. Selain set data Common Voice, kami juga membangun mesin pengenalan ucapan open source yang disebut Deep Speech.
+    Kami tidak hanya mengumpulkan sampel suara dalam bahasa yang digunakan secara luas, tetapi juga pada mereka yang populasi penuturnya sedikit. Menerbitkan set data suara yang beragam akan memberdayakan pengembang, pengusaha, dan komunitas untuk mengatasi kesenjangan ini. Selain set data Sumbang Suara, kami juga membangun mesin pengenalan ucapan open source yang disebut Deep Speech.
 faq-why-important-q = Mengapa ini penting?
 faq-why-important-a =
-    Suara merupakan cara paling alami untuk berkomunikasi satu sama lain dan teknologi suara membawa kenyamanan itu ke komputer dan perangkat seluler kita. Kami ingin memberdayakan pengembang untuk membangun aplikasi pengenalan suara yang luar biasa seperti penerjemah realtime dan asisten digital berkemampuan-suara. Tetapi saat ini sebagian besar data suara yang dibutuhkan untuk membangun aplikasi semacam ini mahal dan eksklusif. Kami berharap set data Common Voice akan memberi pengembang apa yang mereka butuhkan untuk berinovasi dan membuat teknologi bicara tersedia dalam bahasa mereka sendiri.
+    Suara merupakan cara paling alami untuk berkomunikasi satu sama lain dan teknologi suara membawa kenyamanan itu ke komputer dan perangkat seluler kita. Kami ingin memberdayakan pengembang untuk membangun aplikasi pengenalan suara yang luar biasa seperti penerjemah realtime dan asisten digital berkemampuan-suara. Tetapi saat ini sebagian besar data suara yang dibutuhkan untuk membangun aplikasi semacam ini mahal dan eksklusif. Kami berharap set data Sumbang Suara akan memberi pengembang apa yang mereka butuhkan untuk berinovasi dan membuat teknologi bicara tersedia dalam bahasa mereka sendiri.
     
     Untuk membuat pengenalan suara menjadi lebih universal, kami mengumpulkan sampel suara dalam bahasa yang digunakan secara luas serta sampel dengan populasi penutur yang lebih kecil yang sering terlayani oleh layanan pengenalan suara komersial. Menerbitkan set data suara yang beragam akan memberdayakan pengembang, pengusaha, dan seluruh komunitas terkait untuk mengatasi kesenjangan ini sendiri.
-faq-how-get-q = Bagaimana saya bisa mendapatkan data Common Voice?
-faq-how-get-a = Kumpulan data Common Voice tersedia untuk diunduh di bawah lisensi <licenseLink> CC0 </licenseLink> di <datasetLink> laman Kumpulan data kami </datasetLink>. Anda juga dapat mengunduh beberapa set data yang tersedia untuk umum dari laman yang sama.
-faq-when-release2-q = Kapan Anda akan merilis data Common Voice dalam bahasa lain?
-faq-when-release2-a = Versi multi-bahasa dari dataset Common Voice saat ini menjalani proses pemberkasan dan pembersihan yang didukung komunitas. Jika Anda ingin bantu kami menghadirkan Common Voice ke bahasa baru, buka <sentenceCollectorLink>Alat Pengumpul Kalimat</sentenceCollectorLink> untuk menambahkan kalimat baru ke dataset, dan Mozilla <pontoonLink>Pontoon</pontoonLink> untuk menerjemahkan situs web itu sendiri. Bahasa baru ditambahkan ke Common Voice untuk kontribusi suara ketika 5000 kalimat yang disetujui telah dikumpulkan.
-faq-why-mission-q = Mengapa Common Voice merupakan bagian dari misi Mozilla?
-faq-why-mission-a = Mozilla didedikasikan untuk menjaga web tetap terbuka dan dapat diakses oleh semua orang. Untuk melakukan itu kita perlu memberdayakan pembuat web melalui proyek-proyek seperti Common Voice. Teknologi suara sudah mulai berkembang di dikehidupan sehari-hari, kami percaya semua pengguna memiliki hak yang sama untuk dapat menggunakannya. Itu berarti berinvestasi dalam lebih banyak bahasa dan mengakomodasi beragam aksen dan demografi untuk membuat dan menguji teknologi suara. Common Voice adalah sumber daya publik yang tersedia untuk semua orang dan tim dan pengembang Mozilla di seluruh dunia sudah menggunakannya pula pada proyek kami sendiri.
-faq-what-cv-and-deepspeech-q = Apa perbedaan antara Common Voice dan Deep Speech?
-faq-what-cv-and-deepspeech-a = Kumpulan data Common Voice melengkapi mesin pengenalan suara open source Mozilla, Deep Speech. Versi pertama Deep Speech dirilis pada November 2017 dan terus berkembang sejak saat itu. Bersama dengan set data Common Voice, kami percaya teknologi pengenalan suara open source ini harus tersedia untuk semua orang. Kami berharap teknologi ini akan memungkinkan pengembang membangun beragam produk dan layanan inovatif.
-faq-is-goal-assistant-q = Apakah tujuan Common Voice adalah untuk membangun asisten suara?
-faq-is-goal-assistant-a = Tujuan set data Common Voice adalah untuk memungkinkan siapa saja di dunia membangun pengenalan wicara, pengenalan pembicara, atau jenis aplikasi lain apa pun yang membutuhkan data suara. Asisten suara hanyalah salah satu dari banyak jenis aplikasi yang bisa Anda buat dengan menggunakan set data Common Voice.
+faq-how-get-q = Bagaimana saya bisa mendapatkan data Sumbang Suara?
+faq-how-get-a = Kumpulan data Sumbang Suara tersedia untuk diunduh di bawah lisensi <licenseLink> CC0 </licenseLink> di <datasetLink> laman Kumpulan data kami </datasetLink>. Anda juga dapat mengunduh beberapa set data yang tersedia untuk umum dari laman yang sama.
+faq-when-release2-q = Kapan Anda akan merilis data Sumbang Suara dalam bahasa lain?
+faq-when-release2-a = Versi multi-bahasa dari dataset Sumbang Suara saat ini menjalani proses pemberkasan dan pembersihan yang didukung komunitas. Jika Anda ingin bantu kami menghadirkan Sumbang Suara ke bahasa baru, buka <sentenceCollectorLink>Alat Pengumpul Kalimat</sentenceCollectorLink> untuk menambahkan kalimat baru ke dataset, dan Mozilla <pontoonLink>Pontoon</pontoonLink> untuk menerjemahkan situs web itu sendiri. Bahasa baru ditambahkan ke Sumbang Suara untuk kontribusi suara ketika 5000 kalimat yang disetujui telah dikumpulkan.
+faq-why-mission-q = Mengapa Sumbang Suara merupakan bagian dari misi Mozilla?
+faq-why-mission-a = Mozilla didedikasikan untuk menjaga web tetap terbuka dan dapat diakses oleh semua orang. Untuk melakukan itu kita perlu memberdayakan pembuat web melalui proyek-proyek seperti Sumbang Suara. Teknologi suara sudah mulai berkembang di dikehidupan sehari-hari, kami percaya semua pengguna memiliki hak yang sama untuk dapat menggunakannya. Itu berarti berinvestasi dalam lebih banyak bahasa dan mengakomodasi beragam aksen dan demografi untuk membuat dan menguji teknologi suara. Sumbang Suara adalah sumber daya publik yang tersedia untuk semua orang dan tim dan pengembang Mozilla di seluruh dunia sudah menggunakannya pula pada proyek kami sendiri.
+faq-what-cv-and-deepspeech-q = Apa perbedaan antara Sumbang Suara dan Deep Speech?
+faq-what-cv-and-deepspeech-a = Kumpulan data Sumbang Suara melengkapi mesin pengenalan suara open source Mozilla, Deep Speech. Versi pertama Deep Speech dirilis pada November 2017 dan terus berkembang sejak saat itu. Bersama dengan set data Sumbang Suara, kami percaya teknologi pengenalan suara open source ini harus tersedia untuk semua orang. Kami berharap teknologi ini akan memungkinkan pengembang membangun beragam produk dan layanan inovatif.
+faq-is-goal-assistant-q = Apakah tujuan Sumbang Suara adalah untuk membangun asisten suara?
+faq-is-goal-assistant-a = Tujuan set data Sumbang Suara adalah untuk memungkinkan siapa saja di dunia membangun pengenalan wicara, pengenalan pembicara, atau jenis aplikasi lain apa pun yang membutuhkan data suara. Asisten suara hanyalah salah satu dari banyak jenis aplikasi yang bisa Anda buat dengan menggunakan set data Sumbang Suara.
 faq-do-want-native-q = Saya bukan penutur jati dan saya memiliki logat bicara, apakah Anda masih menginginkan suara saya?
-faq-do-want-native-a = Ya, kami sangat menginginkan suara Anda! Bagian dari tujuan Common Voice adalah mengumpulkan sebanyak mungkin aksen yang berbeda sehingga layanan pengenalan suara bekerja dengan baik untuk semua orang. Ini berarti sumbangan dari penutur asing juga sangat penting.
+faq-do-want-native-a = Ya, kami sangat menginginkan suara Anda! Bagian dari tujuan Sumbang Suara adalah mengumpulkan sebanyak mungkin aksen yang berbeda sehingga layanan pengenalan suara bekerja dengan baik untuk semua orang. Ini berarti sumbangan dari penutur asing juga sangat penting.
 faq-why-different-speakers-q = Mengapa Anda membutuhkan begitu banyak penutur yang berbeda untuk tiap-tiap bahasa?
 faq-why-different-speakers-a =
     Kebanyakan data wicara dilatih dengan representasi demografis tertentu yang terlalu berlebihan akan mengakibatkan bias terhadap <articleLink> pria dan kelas menengah </articleLink>. Aksen dan dialek yang cenderung kurang terwakili dalam set data pelatihan biasanya dikaitkan dengan kelompok orang yang sudah terpinggirkan. Banyak mesin juga kesulitan memahami suara wanita.
     Inilah sebabnya mengapa di data suara kami, kami menginginkan banyak variasi!
 faq-why-my-lang-q = Mengapa bahasa saya belum termasuk?
 faq-what-quality-q = Berapa tingkat kualitas audio yang diperlukan untuk klip suara yang akan digunakan dalam himpunan data?
-faq-what-quality-a = Kami ingin set data Common Voice mencerminkan kualitas audio yang akan didengar oleh mesin suara-ke-teks, jadi kami mencari banyak variasi. Selain komunitas pembicara yang beragam, data dengan kualitas audio yang bervariasi akan mengajarkan mesin suara-ke-teks untuk menangani berbagai situasi dunia nyata, dari pembicaraan di latar belakang hingga kebisingan mobil. Selama klip suara Anda dapat dipahami, itu sudah cukup untuk menjadi set data.
+faq-what-quality-a = Kami ingin set data Sumbang Suara mencerminkan kualitas audio yang akan didengar oleh mesin suara-ke-teks, jadi kami mencari banyak variasi. Selain komunitas pembicara yang beragam, data dengan kualitas audio yang bervariasi akan mengajarkan mesin suara-ke-teks untuk menangani berbagai situasi dunia nyata, dari pembicaraan di latar belakang hingga kebisingan mobil. Selama klip suara Anda dapat dipahami, itu sudah cukup untuk menjadi set data.
 faq-why-10k-hours-q = Mengapa 10.000 jam tervalidasi merupakan sasaran per bahasa untuk mengumpulkan data suara?
 faq-why-10k-hours-a = Kira-kira inilah jumlah waktu yang dibutuhkan untuk melatih sistem ucapan-ke-teks produksi.
-faq-how-calc-hours-q = Bagaimana Common Voice menghitung jumlah jam?
+faq-how-calc-hours-q = Bagaimana Sumbang Suara menghitung jumlah jam?
 faq-how-calc-hours-a = Kami menghitung jam dengan memperkirakan panjang rata-rata setiap rekaman, kemudian mengalikan angka tersebut dengan jumlah total rekaman di semua bahasa.
 faq-where-src-from-2-q = Dari mana asal teks sumbernya?
 faq-where-src-from-2-a =
@@ -415,26 +275,26 @@ faq-where-src-from-2-a =
     
     Anda dapat melihat kalimat sumber kami di <githubLink>folder GitHub</githubLink> ini.
 faq-why-not-ask-read-q = Mengapa Anda tidak meminta orang untuk membaca dari buku atau artikel Wikipedia dalam bahasa yang berbeda?
-faq-why-not-ask-read-a = Untuk membuat data Common Voice semakinberguna, kami telah memutuskan untuk hanya mengizinkan teks sumber yang tersedia di bawah lisensi Creative Commons (CC0). Menggunakan standar CC0 berarti lebih sulit untuk menemukan dan mengumpulkan teks sumber, tetapi memungkinkan siapa pun untuk menggunakan data suara yang dihasilkan tanpa batasan penggunaan atau otorisasi dari Mozilla. Pada akhirnya, kami ingin membuat set data multi-bahasa bermanfaat bagi semua orang, termasuk peneliti, universitas, startup, pemerintah, organisasi tujuan sosial, dan penggemar.
+faq-why-not-ask-read-a = Untuk membuat data Sumbang Suara semakinberguna, kami telah memutuskan untuk hanya mengizinkan teks sumber yang tersedia di bawah lisensi Creative Commons (CC0). Menggunakan standar CC0 berarti lebih sulit untuk menemukan dan mengumpulkan teks sumber, tetapi memungkinkan siapa pun untuk menggunakan data suara yang dihasilkan tanpa batasan penggunaan atau otorisasi dari Mozilla. Pada akhirnya, kami ingin membuat set data multi-bahasa bermanfaat bagi semua orang, termasuk peneliti, universitas, startup, pemerintah, organisasi tujuan sosial, dan penggemar.
 faq-why-account-q = Mengapa saya harus mendaftar akun?
 faq-is-account-public-q = Apakah informasi akun saya bersifat publik?
 faq-how-privacy-q = Bagaimana Anda memastikan anonimitas dan privasi orang-orang yang menyumbangkan suara mereka?
 faq-how-privacy-a = Semua klip suara dalam set data dihapus dari informasi pengenal pribadi. Ketika seorang kontributor memberikan data demografis melalui profil mereka, informasi itu tidak diidentifikasikan pada klip suara mereka sebelum di-bundle untuk diunduh dalam set data serta tidak pernah dipublikasikan di laman profil mereka.
-faq-what-determine-identity-q = Apa maksudnya saya tidak bisa “menentukan identitas” penutur dalam himpunan data Common Voice?
+faq-what-determine-identity-q = Apa maksudnya saya tidak bisa “menentukan identitas” penutur dalam himpunan data Sumbang Suara?
 faq-what-determine-identity-a =
-    Set data Common Voice adalah sumber daya terbuka dan tersedia untuk umum yang dapat digunakan untuk melatih berbagai aplikasi yang berkemampuan-bicara. Untuk melindungi keamanan kontributor kami, kami meminta semua orang yang mengunduh set data Common Voice untuk menghormati privasi kontributor.
+    Set data Sumbang Suara adalah sumber daya terbuka dan tersedia untuk umum yang dapat digunakan untuk melatih berbagai aplikasi yang berkemampuan-bicara. Untuk melindungi keamanan kontributor kami, kami meminta semua orang yang mengunduh set data Sumbang Suara untuk menghormati privasi kontributor.
     
     Semua klip suara dalam set data telah terpisahkan dari informasi pengenal pribadi. Ketika Anda mengunduh set data, Anda setuju untuk tidak mencoba menentukan identitas kontributor manapun. Itu berarti Anda tidak dapat mencoba menautkan informasi dalam set data ke informasi pribadi kontributor. Namun, Anda dapat menggunakan set data untuk melatih pengenalan ucapan, pengenalan pembicara, atau aplikasi lain, dengan, misalnya, menghubungkan informasi dalam set data ke informasi lain yang sudah ada dalam set data.
-faq-what-is-cv = Apa itu Common Voice?
-faq-using-cv = Menggunakan Common Voice
-faq-description = Common Voice adalah bagian dari inisiatif Mozilla untuk membantu mengajari mesin bagaimana manusia sebenarnya berbicara.
+faq-what-is-cv = Apa itu Sumbang Suara?
+faq-using-cv = Menggunakan Sumbang Suara
+faq-description = Sumbang Suara adalah bagian dari inisiatif Mozilla untuk membantu mengajari mesin bagaimana manusia sebenarnya berbicara.
 faq-search-for-answers =
     .label = Cari jawaban
 
 ## ABOUT US
 
-about-title = Mengapa Common Voice?
-how-does-it-work-title-v2 = Bagaimana cara kerja Common Voice?
+about-title = Mengapa Sumbang Suara?
+how-does-it-work-title-v2 = Bagaimana cara kerja Sumbang Suara?
 how-does-it-work-text = Kami mengurundayakan penghimpunan data suara sumber terbuka. Sumbangkan suara Anda, validasi akurasi klip yang ada, jadikan himpunan data lebih baik bagi siapa saja.
 
 ## How does it work section
@@ -448,16 +308,16 @@ about-listen-text = Pengguna memvalidasi akurasi klip donasi, memeriksa apakah p
 about-is-it-valid = Apakah klipnya valid?
 about-is-it-valid-text = Klip suara ditandai "valid" ketika pengguna memilih Ya.
 about-yes-votes = ≥ 2 pilihan Ya
-about-yes-votes-text = Supaya diterima dalam himpunan data Common Voice, klip suara harus divalidasi oleh dua pengguna berbeda.
+about-yes-votes-text = Supaya diterima dalam himpunan data Sumbang Suara, klip suara harus divalidasi oleh dua pengguna berbeda.
 about-no-votes = ≥ 2 pilihan Tidak
 about-no-votes-text = Ketika ditolak oleh pengguna, klip suara akan kembali ke Antrean. Apabila ditolak lagi, klip suara akan dialihkan ke Kober Klip.
-about-dataset-new = Himpunan Data Common Voice
-about-dataset-new-text = Himpunan Data Common Voice berisi ratusan ribu sampel suara yang membantu para pengembang membangun peralatan pengenalan suara.
+about-dataset-new = Himpunan Data Sumbang Suara
+about-dataset-new-text = Himpunan Data Sumbang Suara berisi ratusan ribu sampel suara yang membantu para pengembang membangun peralatan pengenalan suara.
 about-clip-graveyard = Kober Klip
-about-clip-graveyard-text = Kober Klip terdiri dari klip suara yang ditolak masuk ke himpunan data Common Voice. Sebagaimana himpunan data, Kober Klip juga tersedia untuk diunduh.
+about-clip-graveyard-text = Kober Klip terdiri dari klip suara yang ditolak masuk ke himpunan data Sumbang Suara. Sebagaimana himpunan data, Kober Klip juga tersedia untuk diunduh.
 about-get-involved = Mari berperan
 about-get-involved-text-2 =
-    Ingin membantu menjadikan Common Voice lebih baik?
+    Ingin membantu menjadikan Sumbang Suara lebih baik?
     Bagus! Hubungi kami via surel atau forum <discourseLink>Discourse</discourseLink>,
     laporkan masalah situs melalui <githubLink>GitHub</githubLink>, atau bergabung dengan
     obrolan komunitas di <matrixLink>Matrix </matrixLink>.
@@ -520,7 +380,7 @@ error-code = Galat { $code }
 
 ## Data
 
-data-download-button = Unduh Data Common Voice
+data-download-button = Unduh Data Sumbang Suara
 data-download-yes = Ya
 data-download-deny = Tidak
 data-download-license = Lisensi: <licenseLink>CC-0</licenseLink>
@@ -532,14 +392,14 @@ data-other-title = Himpunan data suara lainnya...
 data-other-goto = Kunjungi { $name }
 data-other-download = Unduh Data
 data-bundle-button = Unduh Bundel Himpunan Data
-data-bundle-description = Data Common Voice dan seluruh himpunan data suara lain di atas.
+data-bundle-description = Data Sumbang Suara dan seluruh himpunan data suara lain di atas.
 release-version = Versi
 dataset-date = Tanggal
 license = Lisensi: <licenseLink>{ $license }</licenseLink>
 license-mixed = Campuran
 data-download-singleword-title = Unduh Segmen Target Kata Tunggal
 data-download-singleword-callout-v2 = Ini adalah segmen berbasis kasus penggunaan yang berisi data untuk mengaktifkan pengenalan digit yang diucapkan dan pendeteksian ya / tidak.
-review-terms = Dengan menggunakan Common Voice, berarti Anda menyetujui <termsLink>Persyaratan</termsLink> dan <privacyLink>Pemberitahuan Privasi</privacyLink> kami
+review-terms = Dengan menggunakan Sumbang Suara, berarti Anda menyetujui <termsLink>Persyaratan</termsLink> dan <privacyLink>Pemberitahuan Privasi</privacyLink> kami
 terms-agree = Saya setuju
 terms-disagree = Saya tidak setuju
 review-aborted = Unggahan dibatalkan. Apakah Anda ingin menghapus rekaman anda?
@@ -557,9 +417,9 @@ datasets-headline = Kami membuat kumpulan data multi-bahasa dan sumber terbuka y
 datasets-positioning =
     Kami percaya bahwa kumpulan suara yang besar dan tersedia untuk umum akan mendorong inovasi dan persaingan komersial yang sehat dalam teknologi bicara berbasis pembelajaran-mesin.
     
-    Set data multi-bahasa Common Voice sudah menjadi set data suara terbesar yang tersedia untuk umum, tetapi itu bukan satu-satunya.
+    Set data multi-bahasa Sumbang Suara sudah menjadi set data suara terbesar yang tersedia untuk umum, tetapi itu bukan satu-satunya.
     
-    Lihatlah laman ini sebagai pusat referensi untuk set data suara sumber terbuka lainnya dan, seiring Common Voice terus berkembang, rumah bagi pembaruan rilis kami.
+    Lihatlah laman ini sebagai pusat referensi untuk set data suara sumber terbuka lainnya dan, seiring Sumbang Suara terus berkembang, rumah bagi pembaruan rilis kami.
 language = Bahasa
 # File size in gigabytes
 size = Ukuran
@@ -574,16 +434,16 @@ why-email = <b> Mengapa surel? </b> Kami mungkin perlu menghubungi Anda di masa 
 confirm-size = Anda siap untuk memulai unduhan <b> { $size } </b>
 size-gigabyte = GB
 size-megabyte = MB
-confirm-no-identify = <b> Anda setuju </b> untuk tidak mencoba menentukan identitas pembicara dalam set data Common Voice
+confirm-no-identify = <b> Anda setuju </b> untuk tidak mencoba menentukan identitas pembicara dalam set data Sumbang Suara
 download-language = Unduh { $language }
 validated-hours = Jam tervalidasi
 recorded-hours = Jam terekam
-whats-inside = Apa yang ada dalam set data Common Voice?
+whats-inside = Apa yang ada dalam set data Sumbang Suara?
 dataset-description-hours =
     Setiap masukan dalam set data terdiri  dari MP3 unik dan berkas teks terkait. Banyak dari <b>{ $total }</b> jam yang terekam dalam set data juga mengandung metadata demografi seperti usia, jenis kelamin, dan aksen yang bisa membantu melatih akurasi dari mesin pengenalan wicara. 
     
     Saat ini data set terdiri dari <b>{ $valid }</b> jam tervalidasi dalam bahasa <b>{ $languages }</b>, namun kami selalu menambahkan suara dan bahasa lainnya. Lihatlah <languagesLink>laman Bahasa</languagesLink> kami untuk meminta sebuah bahasa atau memulai kontribusi.
-want-dataset-update = Ingin pembaruan saat kami merilis versi baru set data Common Voice? Berlanggananlah nawala kami.
+want-dataset-update = Ingin pembaruan saat kami merilis versi baru set data Sumbang Suara? Berlanggananlah nawala kami.
 subscribe = Berlangganan
 get-started-speech = Memulai dengan Pengenalan Wicara
 other-datasets = Set Data Suara Lain
@@ -593,7 +453,7 @@ data-other-ted-name = TED-LIUM Corpus
 data-other-ted-description = Korpus TED-LIUM dibangun dari perbincangan audio dan naskah salinannya yang tersedia di situs web TED.
 data-other-voxforge-description = VoxForge dibangun untuk mengumpulkan naskah salinan pembicaraan untuk digunakan dengan Mesin Pengenalan Suara Sumber Terbuka dan Gratis.
 data-other-tatoeba-description = Tatoeba adalah basis data besar kalimat, terjemahan, dan audio tuturan guna pembelajaran bahasa. Unduhan ini berisi seluruh tuturan bahasa Inggris yang direkam oleh komunitas mereka.
-your-feedback = Apakah Anda punya ide tentang bagaimana kami dapat membuat set data Common Voice lebih baik? Beritahu kami melalui Discourse
+your-feedback = Apakah Anda punya ide tentang bagaimana kami dapat membuat set data Sumbang Suara lebih baik? Beritahu kami melalui Discourse
 go-discourse = Pergi ke Discourse
 missing-language = Tidak melihat bahasa Anda di Set Data? Untuk meminta bahasa, pergilah ke laman Bahasa kami.
 go-languages-page = Buka Laman Bahasa
@@ -610,7 +470,7 @@ download-helpus = Bantu kami membangun komunitas seputar teknologi suara, dan te
 download-form-email =
     .label = Masukkan surel Anda
     .value = Terima kasih, kami akan menghubungi Anda.
-download-back = Kembali ke Himpunan Data Common Voice
+download-back = Kembali ke Himpunan Data Sumbang Suara
 download-no = Tidak, Terima Kasih
 
 ## Contact Modal
@@ -628,7 +488,7 @@ request-language-title = Permohonan Bahasa
 request-language-form-language =
     .label = Bahasa
 request-language-success-title = Terima kasih, permintaan bahasa baru berhasil dikirimkan.
-request-language-success-content = Kami akan tetap terhubung dengan lebih banyak informasi tentang bagaimana menambahkan bahasa Anda ke Common Voice segera.
+request-language-success-content = Kami akan tetap terhubung dengan lebih banyak informasi tentang bagaimana menambahkan bahasa Anda ke Sumbang Suara segera.
 select-language = Pilih Bahasa...
 other-language = Bahasa Lainnya
 
@@ -663,8 +523,8 @@ clips-with-count-pluralized =
     { $count ->
        *[other] <bold>{ $count }</bold> Klip
     }
-goal-help-recording = Anda telah membantu Common Voice mencapai <goalPercentage></goalPercentage> dari target rekaman harian kami { $goalValue }!
-goal-help-validation = Anda telah membantu Common Voice mencapai <goalPercentage></goalPercentage> dari target validasi harian kami { $goalValue }!
+goal-help-recording = Anda telah membantu Sumbang Suara mencapai <goalPercentage></goalPercentage> dari target rekaman harian kami { $goalValue }!
+goal-help-validation = Anda telah membantu Sumbang Suara mencapai <goalPercentage></goalPercentage> dari target validasi harian kami { $goalValue }!
 contribute-more = Siap melanjutkan { $count } sisanya?
 record-cta = Mulai merekam
 record-platform-not-supported = Maaf, platform Anda saat ini belum mendukung.
@@ -684,7 +544,7 @@ record-again-instruction2 = Lanjut terus, rekam lagi <recordIcon></recordIcon>
 record-last-instruction = <checkIcon></checkIcon> Yang terakhir!
 review-tooltip = Tinjau & rekam ulang klip di sini selagi melanjutkan
 share-clip = Bagikan klip Anda
-share-common-voice = Bagikan Common Voice
+share-common-voice = Bagikan Sumbang Suara
 review-instruction = Tinjau & rekam ulang klip jika perlu
 record-submit-tooltip = { $actionType } kirimkan jika sudah siap
 clips-uploaded = Klip Diunggah
@@ -706,7 +566,7 @@ keep-track-profile = Pantau kemajuan Anda dengan profil
 login-to-get-started = Masuk atau daftar untuk memulai
 target-segment-first-card = Anda berkontribusi ke segmen target pertama kami
 target-segment-generic-card = Anda berkontribusi pada sebuah segmen target
-target-segment-first-banner = Bantu buat segmen target pertama Common Voice dalam bahasa { $locale }
+target-segment-first-banner = Bantu buat segmen target pertama Sumbang Suara dalam bahasa { $locale }
 target-segment-add-voice = Tambahkan Suara Anda
 target-segment-learn-more = Pelajari Lebih Lanjut
 
@@ -757,8 +617,8 @@ toward-next-goal = Menuju capaian selanjutnya
 goal-reached = Target tercapai
 clips-you-recorded = Klip yang sudah Anda rekam
 clips-you-validated = Klip yang telah Anda validasi
-todays-recorded-progress = Perkembangan Common Voice berdasarkan potongan rekaman
-todays-validated-progress = Perkembangan Common Voice berdasarkan potongan rekaman tervalidasi
+todays-recorded-progress = Perkembangan Sumbang Suara berdasarkan potongan rekaman
+todays-validated-progress = Perkembangan Sumbang Suara berdasarkan potongan rekaman tervalidasi
 stats = Statistik
 awards = Penghargaan
 you = Anda
@@ -797,7 +657,7 @@ help-reach-hours-pluralized =
        *[other] { $hours } jam
     }dalam { $language } dengan sasaran pribadi
 help-reach-hours-general-pluralized =
-    Bantu Common Voice mencapai{ NUMBER($hours) ->
+    Bantu Sumbang Suara mencapai{ NUMBER($hours) ->
        *[other] { $hours } jam
     }pada sebuah bahasa dengan sasaran pribadi
 set-a-goal = Tetapkan target
@@ -815,8 +675,8 @@ activity-needed-calculation-plural =
 how-many-per-day = Hebat! Berapa banyak klip per hari?
 how-many-a-week = Hebat! Berapa banyak klip dalam seminggu?
 which-goal-type = Apakah Anda ingin Bicara, Mendengarkan, atau keduanya?
-receiving-emails-info = Saat ini Anda menetapkan untuk menerima surel seperti pengingat sasaran, pembaruan kemajuan, dan nawala tentang Common Voice.
-not-receiving-emails-info = Saat ini Anda menetapkan untuk <bold>TIDAK</bold> menerima surel seperti pengingat sasaran, pembaruan kemajuan, dan nawala tentang Common Voice.
+receiving-emails-info = Saat ini Anda menetapkan untuk menerima surel seperti pengingat sasaran, pembaruan kemajuan, dan nawala tentang Sumbang Suara.
+not-receiving-emails-info = Saat ini Anda menetapkan untuk <bold>TIDAK</bold> menerima surel seperti pengingat sasaran, pembaruan kemajuan, dan nawala tentang Sumbang Suara.
 n-clips-pluralized =
     { NUMBER($count) ->
        *[other] { $count } klip
@@ -841,13 +701,13 @@ share-goal = Bagikan target saya
 
 ## Profile Delete
 
-delete-q = Apakah Anda ingin meminta rekaman suara Anda dihapus juga, atau apakah Anda lebih memilih untuk menyimpannya dalam kumpulan data Common Voice?
+delete-q = Apakah Anda ingin meminta rekaman suara Anda dihapus juga, atau apakah Anda lebih memilih untuk menyimpannya dalam kumpulan data Sumbang Suara?
 keep = Simpan
 remove = Hapus
-keep-info = Rekanan suara anonim Anda akan tetap tersimpan di dalam kumpulan data Common Voice. Setelah menghapus profil, Anda tidak dapat memohon pemintaan untuk menghapus rekaman Anda dari kumpulan data.
+keep-info = Rekanan suara anonim Anda akan tetap tersimpan di dalam kumpulan data Sumbang Suara. Setelah menghapus profil, Anda tidak dapat memohon pemintaan untuk menghapus rekaman Anda dari kumpulan data.
 remove-info = Kami akan meninjau permintaan untuk menghapus rekaman suara Anda dari kumpulan data. Jika permintaan Anda disetujui, kami akan menghubungi mereka yang telah mengunduh kumpulan data dan meminta mereka menghapus rekaman suara Anda juga.
 why-delete-recordings =
-    Rekaman Common Voice digunakan oleh akademisi, bisnis kecil, dan penggemar pengenalan suara untuk membantu melatih dan menumbuhkan model suara sumber daya terbuka sejenis.
+    Rekaman Sumbang Suara digunakan oleh akademisi, bisnis kecil, dan penggemar pengenalan suara untuk membantu melatih dan menumbuhkan model suara sumber daya terbuka sejenis.
     
     Bisakah Anda memberi tahu kami mengapa rekaman Anda ingin dihapus?
 profile-form-delete = Hapus Profil
@@ -858,7 +718,7 @@ profile-form-delete = Hapus Profil
 ## Landing
 
 welcome-staff = Selamat datang staf { $company }!
-help-contribute = Anda dapat bantu membantu set data sumber-terbuka nan beragama dengan membuat profil Common Voice dan kontribusikan suara Anda.
+help-contribute = Anda dapat bantu membantu set data sumber-terbuka nan beragama dengan membuat profil Sumbang Suara dan kontribusikan suara Anda.
 login-company = Masuk/Daftar dengan surel { $company }
 profile-not-required = Untuk berkontribusi, memiliki profil tidak diwajibkan meskipun sangat membantu
 read-more-about = Baca lebih lanjut pada laman Tentang Kami
@@ -866,12 +726,12 @@ read-more-about = Baca lebih lanjut pada laman Tentang Kami
 ## DemoLayout
 
 demo-get-started = Ayo Mulai
-demo-welcome = Selamat datang di Common Voice
+demo-welcome = Selamat datang di Sumbang Suara
 demo-welcome-subheader = Tertarik untuk belajar lebih banyak dan berkontribusi pada proyek ini?
 
 ## Demo Datasets
 
-demo-language-select-card-header = Common Voice adalah himpunan data suara multi bahasa terbesar dunia yang tersedia untuk umum.
+demo-language-select-card-header = Sumbang Suara adalah himpunan data suara multi bahasa terbesar dunia yang tersedia untuk umum.
 demo-language-select-card-body = Berkat kontribusi lebih dari 259 ribu orang dalam lebih dari 50 bahasa, data ini digunakan untuk melatih aplikasi yang berkemampuan bicara guna memberikan respon yang lebih baik terhadap suara manusia.
 card-button-next = Selanjutnya
 card-button-back = Kembali
@@ -883,7 +743,7 @@ demo-account = Akun
 ## Demo Account
 
 demo-account-card-header = Anda tidak perlu memiliki sebuah akun untuk dapat berkontribusi. Jika punya, ini akan sangat membantu.
-demo-account-card-body = Di sebelah kanan kami menguraikan manfaat dan mengklarifikasi informasi apa yang kami publikasikan. Gunakan tautan di bawah untuk memulai akun Common Voice di perangkat Anda sendiri.
+demo-account-card-body = Di sebelah kanan kami menguraikan manfaat dan mengklarifikasi informasi apa yang kami publikasikan. Gunakan tautan di bawah untuk memulai akun Sumbang Suara di perangkat Anda sendiri.
 demo-account-enter-email =
     .label = Masukkan surel untuk mengirimkan tautan pendaftaran
 demo-account-sign-up = Kirim tautan pendaftaran
@@ -891,7 +751,7 @@ demo-account-sign-up = Kirim tautan pendaftaran
 ## Demo Contribute
 
 demo-contribute-card-header = Siap menambahkan suara atau meminjamkan telinga Anda?
-demo-contribute-card-body-v2 = Sekarang Anda tahu sedikit lebih banyak tentang Common Voice, mengapa tidak mencobanya? Klik pada ikon mikrofon untuk mulai membaca kalimat dengan lantang. <br/><br/>Jika Anda ingin meninjau kontribusi suara orang lain, klik ikon putar. Anda akan membantu mengonfirmasi bahwa rekaman sesuai dengan kalimat yang tertulis di layar.
+demo-contribute-card-body-v2 = Sekarang Anda tahu sedikit lebih banyak tentang Sumbang Suara, mengapa tidak mencobanya? Klik pada ikon mikrofon untuk mulai membaca kalimat dengan lantang. <br/><br/>Jika Anda ingin meninjau kontribusi suara orang lain, klik ikon putar. Anda akan membantu mengonfirmasi bahwa rekaman sesuai dengan kalimat yang tertulis di layar.
 demo-listen-subtitle = Siap berkontribusi?
 
 ## Demo Dashboard

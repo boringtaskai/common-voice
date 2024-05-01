@@ -256,23 +256,6 @@ function ProfileInfo({
         </Localized>
       </div>
 
-      <ExpandableInformation summaryLocalizedId="help-sex-or-gender-changes">
-        <Localized
-          id="help-sex-or-gender-changes-explanation"
-          elems={{
-            learnMoreLink: (
-              <a
-                href="https://foundation.mozilla.org/en/blog/expanding-gender-options-on-common-voice/"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="link"
-              />
-            ),
-          }}>
-          <div />
-        </Localized>
-      </ExpandableInformation>
-
       <ProfileInfoLanguages
         userLanguages={userLanguages}
         setUserLanguages={setUserLanguages}

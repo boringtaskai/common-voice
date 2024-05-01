@@ -1,19 +1,19 @@
 ## General
-yes-receive-emails = Yes, send me emails. I’d like to stay informed about the Common Voice Project.
+yes-receive-emails = Yes, send me emails. I’d like to stay informed about the Sumbang Suara Project.
 stayintouch = We at Mozilla are building a community around voice technology. We would like to stay in touch with updates, new data sources and to hear more about how you're using this data.
 privacy-info = We promise to handle your information with care. Read more in our <privacyLink>Privacy Notice</privacyLink>.
-return-to-cv = Return to Common Voice
+return-to-cv = Return to Sumbang Suara
 email-input =
     .label = Email
 submit-form-action = Submit
 loading = Loading…
-email-opt-in-info = I'd like to receive emails such as goal reminders, my progress updates and newsletters about Common Voice.
-email-opt-in-info-title = Join the Common Voice mailing list
-email-opt-in-info-sub-with-challenge = Receive emails such as challenge and goal reminders, progress updates, and newsletters about Common Voice.
+email-opt-in-info = I'd like to receive emails such as goal reminders, my progress updates and newsletters about Sumbang Suara.
+email-opt-in-info-title = Join the Sumbang Suara mailing list
+email-opt-in-info-sub-with-challenge = Receive emails such as challenge and goal reminders, progress updates, and newsletters about Sumbang Suara.
 email-opt-in-privacy-v2 = By opting in to receive emails you state that you are okay with Mozilla handling this info as explained in Mozilla’s <privacyLink>Privacy Policy</privacyLink>.
 indicates-required = Fields marked with an asterisk (*) are required.
 not-available-abbreviation = N/A
-banner-error-slow-1 = Sorry, Common Voice is running slowly. Thanks for your interest.
+banner-error-slow-1 = Sorry, Sumbang Suara is running slowly. Thanks for your interest.
 banner-error-slow-2 = We're receiving a lot of traffic and are currently investigating the issues.
 banner-error-slow-link = Status Page
 error-something-went-wrong = Sorry, something went wrong
@@ -34,7 +34,9 @@ arn = Mapudungun
 as = Assamese
 ast = Asturian
 az = Azerbaijani
+azz = Highland Puebla Nahuatl
 ba = Bashkir
+bal = Balochi
 bas = Basaa
 be = Belarusian
 bg = Bulgarian
@@ -56,6 +58,7 @@ cv = Chuvash
 cy = Welsh
 da = Danish
 dag = Dagbani
+dav = Kidaw'ida
 de = German
 dsb = Sorbian, Lower
 dv = Dhivehi
@@ -78,6 +81,7 @@ ga-IE = Irish
 gl = Galician
 gn = Guarani
 gom = Goan Konkani
+gos = Gronings
 gu-IN = Gujarati
 guc = Wayuunaiki
 ha = Hausa
@@ -106,6 +110,7 @@ kab = Kabyle
 kbd = Kabardian
 ki = Kikuyu
 kk = Kazakh
+kln = Kalenjin
 km = Khmer
 kmr = Kurmanji Kurdish
 kn = Kannada
@@ -121,6 +126,7 @@ ln = Lingala
 lo = Lao
 lt = Lithuanian
 ltg = Latgalian
+luo = Dholuo
 lv = Latvian
 lzz = Laz
 mai = Maithili
@@ -253,8 +259,8 @@ logout = Log Out
 donate = Donate
 
 ## Home Page
-home-title = Common Voice is Mozilla's initiative to help teach machines how real people speak.
-default-tagline = Mozilla Common Voice is an initiative to help teach machines how real people speak.
+home-title = Sumbang Suara is Mozilla's initiative to help teach machines how real people speak.
+default-tagline = Mozilla Sumbang Suara is an initiative to help teach machines how real people speak.
 home-cta = Speak up, contribute here!
 wall-of-text-start =
   Voice is natural, voice is human. That’s why we’re fascinated with creating usable voice
@@ -262,7 +268,7 @@ wall-of-text-start =
   data is required.
 wall-of-text-more-mobile =
   Most of the data used by large companies isn’t available to the majority of people. We think
-  that stifles innovation. So we’ve launched Project Common Voice, a project to help make voice
+  that stifles innovation. So we’ve launched Project Sumbang Suara, a project to help make voice
   recognition open to everyone.
 wall-of-text-more-desktop =
   Now you can donate your voice to help us build an open-source voice database that anyone can use
@@ -274,7 +280,7 @@ wall-of-text-first =
   data.
 wall-of-text-second =
   Most of the data used by large companies isn’t available to the majority of people. We think that
-  stifles innovation. So we’ve launched Common Voice, a project to help make voice recognition open
+  stifles innovation. So we’ve launched Sumbang Suara, a project to help make voice recognition open
   and accessible to everyone.
 show-wall-of-text = Read More
 help-us-title = Help us validate sentences!
@@ -287,7 +293,7 @@ speak-subtitle = Donate your voice
 speak-paragraph = Recording voice clips is an integral part of building our open dataset; some would say it's the fun part too.
 speak-goal-text = Clips recorded
 listen-subtitle = Help us validate voices
-listen-paragraph = Validating donated clips is equally important to the Common Voice mission. Take a listen and help us create quality open source voice data.
+listen-paragraph = Validating donated clips is equally important to the Sumbang Suara mission. Take a listen and help us create quality open source voice data.
 listen-goal-text = Clips validated
 hours-recorded = Hours Recorded
 hours-validated = Hours Validated
@@ -314,7 +320,7 @@ x-years-short =
 help-make-dataset = Help us build a high quality, publicly open dataset
 sign-up-account = Sign up for an account
 email-subscription-title = sign up for email updates
-email-subscription-title-new = Sign up for Common Voice newsletters, goal reminders and progress updates
+email-subscription-title-new = Sign up for Sumbang Suara newsletters, goal reminders and progress updates
 
 ## Account Benefits
 benefits = Benefits
@@ -365,7 +371,7 @@ shortcut-discard-ongoing-recording-label = Discard ongoing recording
 shortcut-submit = Return
 shortcut-submit-label = Submit clips
 
-request-language-text = Don't see your language on Common Voice yet?
+request-language-text = Don't see your language on Sumbang Suara yet?
 request-language-button = Request a Language
 
 ## ProjectStatus
@@ -424,7 +430,7 @@ do_not_wish_to_say = Don't wish to say
 other = Other
 why-profile-title = Why a profile?
 why-profile-text =
-  By providing some information about yourself, the audio data you submit to Common Voice will be more useful to Speech
+  By providing some information about yourself, the audio data you submit to Sumbang Suara will be more useful to Speech
   Recognition engines that use this data to improve their accuracy.
 
 dashboard = Dashboard
@@ -441,7 +447,7 @@ why-demographic = Why does this matter?
 why-demographic-explanation-2 = Anonymized user data like age, gender, and accent helps improve the audio data used to train the accuracy of speech recognition engines. Your username and email will never be associated with your submitted data, and you can choose whether to make your username public or anonymous.
 accept-privacy = I'm okay with you handling this info as you explain in Mozilla's <privacyLink>Privacy Policy</privacyLink>
 accept-privacy-title = Privacy Policy
-accept-privacy-and-terms = I agree to Common Voice's <termsLink>Terms</termsLink> and <privacyLink>Privacy Notice</privacyLink>
+accept-privacy-and-terms = I agree to Sumbang Suara's <termsLink>Terms</termsLink> and <privacyLink>Privacy Notice</privacyLink>
 login-identity = Login Identity
 login = Log In
 login-signup = Log In / Sign Up
@@ -481,37 +487,37 @@ change-email-setings = Change your email via Settings under Login Identity
 ## FAQ
 faq-title = Frequently Asked Questions
 
-faq-what-cv-q = What is Common Voice?
+faq-what-cv-q = What is Sumbang Suara?
 faq-what-cv-a =
-    Voice recognition technology is revolutionizing the way we interact with machines, but the currently available systems are expensive and proprietary. Common Voice is part of Mozilla’s initiative to make voice recognition technologies better and more accessible for everyone. Common Voice is a massive global database of donated voices that lets anyone quickly and easily train voice-enabled apps in potentially every language.
+    Voice recognition technology is revolutionizing the way we interact with machines, but the currently available systems are expensive and proprietary. Sumbang Suara is part of Mozilla’s initiative to make voice recognition technologies better and more accessible for everyone. Sumbang Suara is a massive global database of donated voices that lets anyone quickly and easily train voice-enabled apps in potentially every language.
 faq-what-cv-a-2 =
-    Voice recognition technology is revolutionizing the way we interact with machines, but the currently available systems are expensive and proprietary. Mozilla Common Voice is an initiative to make voice recognition technologies better and more accessible for everyone. Common Voice is a massive global database of donated voices that lets anyone quickly and easily train voice-enabled apps in potentially every language.
+    Voice recognition technology is revolutionizing the way we interact with machines, but the currently available systems are expensive and proprietary. Mozilla Sumbang Suara is an initiative to make voice recognition technologies better and more accessible for everyone. Sumbang Suara is a massive global database of donated voices that lets anyone quickly and easily train voice-enabled apps in potentially every language.
 
     We're not only collecting voice samples  in widely spoken languages but also in those with a smaller population of speakers. Publishing a diverse dataset of voices will empower developers, entrepreneurs, and communities to address this gap themselves.
 
 faq-why-important-q = Why is it important?
 faq-why-important-a =
-    Speech is often the most natural way we communicate with each other and voice technologies are bringing that convenience to our computers and mobile devices. We want to empower developers to build amazing voice recognition applications like real-time translators and voice-enabled digital assistants. But right now most of the voice data required to build these kinds of apps is expensive and proprietary. We hope the Common Voice dataset will give developers what they need to innovate and make speech technology available in their own language.
+    Speech is often the most natural way we communicate with each other and voice technologies are bringing that convenience to our computers and mobile devices. We want to empower developers to build amazing voice recognition applications like real-time translators and voice-enabled digital assistants. But right now most of the voice data required to build these kinds of apps is expensive and proprietary. We hope the Sumbang Suara dataset will give developers what they need to innovate and make speech technology available in their own language.
 
     To make voice recognition even more universal, we're collecting voice samples in widely spoken languages as well as those with a smaller population of speakers often underserved by commercial speech recognition services. Publishing a diverse dataset of voices will empower developers, entrepreneurs, and entire speech communities to address this gap themselves.
 
-faq-how-get-q = How can I get the Common Voice data?
-faq-how-get-a = The Common Voice dataset is available for download under the <licenseLink>CC0</licenseLink> license on <datasetLink>our Datasets page</datasetLink>. You can also download several other publicly available datasets from the same page.
+faq-how-get-q = How can I get the Sumbang Suara data?
+faq-how-get-a = The Sumbang Suara dataset is available for download under the <licenseLink>CC0</licenseLink> license on <datasetLink>our Datasets page</datasetLink>. You can also download several other publicly available datasets from the same page.
 
-faq-when-release2-q = When will you release Common Voice data in other languages?
-faq-when-release2-a = The multi-language version of the Common Voice dataset is currently undergoing community supported bundling and cleaning. If you would like to help us bring Common Voice to new languages, go check out the <sentenceCollectorLink>Sentence Collection Tool</sentenceCollectorLink> for adding new sentences to the dataset, and Mozilla <pontoonLink>Pontoon</pontoonLink> for translating the website itself. New languages are added to Common Voice for voice contribution when 5000 approved sentences have been collected.
+faq-when-release2-q = When will you release Sumbang Suara data in other languages?
+faq-when-release2-a = The multi-language version of the Sumbang Suara dataset is currently undergoing community supported bundling and cleaning. If you would like to help us bring Sumbang Suara to new languages, go check out the <sentenceCollectorLink>Sentence Collection Tool</sentenceCollectorLink> for adding new sentences to the dataset, and Mozilla <pontoonLink>Pontoon</pontoonLink> for translating the website itself. New languages are added to Sumbang Suara for voice contribution when 5000 approved sentences have been collected.
 
-faq-why-mission-q = Why is Common Voice part of the Mozilla mission?
-faq-why-mission-a = Mozilla is dedicated to keeping the web open and accessible for everyone. To do that we need to empower web creators through projects like Common Voice. As voice technologies proliferate beyond niche applications, we believe they must serve all users equally. That means investing in more languages and accommodating diverse accents and demographics when building and testing voice technologies. Common Voice is a public resource available to everyone and Mozilla teams and developers around the world are already using it on our own projects as well.
+faq-why-mission-q = Why is Sumbang Suara part of the Mozilla mission?
+faq-why-mission-a = Mozilla is dedicated to keeping the web open and accessible for everyone. To do that we need to empower web creators through projects like Sumbang Suara. As voice technologies proliferate beyond niche applications, we believe they must serve all users equally. That means investing in more languages and accommodating diverse accents and demographics when building and testing voice technologies. Sumbang Suara is a public resource available to everyone and Mozilla teams and developers around the world are already using it on our own projects as well.
 
-faq-what-cv-and-deepspeech-q = What’s the difference between Common Voice and Deep Speech?
-faq-what-cv-and-deepspeech-a = The Common Voice dataset complements Mozilla’s open source voice recognition engine Deep Speech. The first version of Deep Speech was released in November 2017 and has continued to evolve ever since. Together with the Common Voice dataset, we believe this open source voice recognition technology should be available to everybody. It’s our hope these technologies will enable developers to build a wave of innovative products and services.
+faq-what-cv-and-deepspeech-q = What’s the difference between Sumbang Suara and Deep Speech?
+faq-what-cv-and-deepspeech-a = The Sumbang Suara dataset complements Mozilla’s open source voice recognition engine Deep Speech. The first version of Deep Speech was released in November 2017 and has continued to evolve ever since. Together with the Sumbang Suara dataset, we believe this open source voice recognition technology should be available to everybody. It’s our hope these technologies will enable developers to build a wave of innovative products and services.
 
-faq-is-goal-assistant-q = Is the goal of Common Voice to build a voice assistant?
-faq-is-goal-assistant-a = The goal of the Common Voice dataset is to enable anyone in the world to build speech recognition, speaker recognition, or any other type of application that requires voice data. A voice assistant is just one of many types of applications you could use the dataset to build.
+faq-is-goal-assistant-q = Is the goal of Sumbang Suara to build a voice assistant?
+faq-is-goal-assistant-a = The goal of the Sumbang Suara dataset is to enable anyone in the world to build speech recognition, speaker recognition, or any other type of application that requires voice data. A voice assistant is just one of many types of applications you could use the dataset to build.
 
 faq-do-want-native-q = I am a non-native speaker and I speak with an accent, do you still want my voice?
-faq-do-want-native-a = Yes, we especially want your voice! Part of the aim of Common Voice is to gather as many different accents as possible so that voice recognition services work equally well for everyone. This means donations from non-native speakers are particularly important.
+faq-do-want-native-a = Yes, we especially want your voice! Part of the aim of Sumbang Suara is to gather as many different accents as possible so that voice recognition services work equally well for everyone. This means donations from non-native speakers are particularly important.
 
 faq-why-different-speakers-q = Why do you need so many different speakers per language?
 faq-why-different-speakers-a =
@@ -520,16 +526,16 @@ faq-why-different-speakers-a =
 
 faq-why-my-lang-q = Why is my language not included yet?
 faq-why-my-lang-a =
-    Common Voice is a crowdsourcing platform, and the languages were all added by volunteers.
+    Sumbang Suara is a crowdsourcing platform, and the languages were all added by volunteers.
     We would love for you to add your language! <languageRequestLink>Ask about adding your language.</languageRequestLink>
 
 faq-what-quality-q = What level of audio quality is required for a voice clip to be used in the dataset?
-faq-what-quality-a = We want the Common Voice dataset to reflect the audio quality a speech-to-text engine will hear in the wild, so we’re looking for variety. In addition to a diverse community of speakers, a dataset with varying audio quality will teach the speech-to-text engine to handle various real-world situations, from background talking to car noise. As long as your voice clip is intelligible, it should be good enough for the dataset.
+faq-what-quality-a = We want the Sumbang Suara dataset to reflect the audio quality a speech-to-text engine will hear in the wild, so we’re looking for variety. In addition to a diverse community of speakers, a dataset with varying audio quality will teach the speech-to-text engine to handle various real-world situations, from background talking to car noise. As long as your voice clip is intelligible, it should be good enough for the dataset.
 
 faq-why-10k-hours-q = Why is 10,000 validated hours the per language goal for capturing audio?
 faq-why-10k-hours-a = This is approximately the number of hours required to train a production speech-to-text system.
 
-faq-how-calc-hours-q = How does Common Voice calculate hours?
+faq-how-calc-hours-q = How does Sumbang Suara calculate hours?
 faq-how-calc-hours-a = We calculate hours by estimating the average length of each recording, and then multiplying that number by the total number of recordings across all languages.
 
 faq-where-src-from-2-q = Where does the source text come from?
@@ -539,7 +545,7 @@ faq-where-src-from-2-a =
     You can view our source sentences in this <githubLink>GitHub folder</githubLink>.
 
 faq-why-not-ask-read-q = Why don’t you ask people to read from books or Wikipedia articles in different languages?
-faq-why-not-ask-read-a = To make the Common Voice dataset as useful as possible we have decided to only allow source text that is available under a Creative Commons (CC0) license. Using the CC0 standard means its more difficult to find and collect source text, but allows anyone to use the resulting voice data without usage restrictions or authorization from Mozilla. Ultimately, we want to make the multi-language dataset as useful as possible to everyone, including researchers, universities, startups, governments, social purpose organizations, and hobbyists.
+faq-why-not-ask-read-a = To make the Sumbang Suara dataset as useful as possible we have decided to only allow source text that is available under a Creative Commons (CC0) license. Using the CC0 standard means its more difficult to find and collect source text, but allows anyone to use the resulting voice data without usage restrictions or authorization from Mozilla. Ultimately, we want to make the multi-language dataset as useful as possible to everyone, including researchers, universities, startups, governments, social purpose organizations, and hobbyists.
 
 faq-why-account-q = Why should I sign up for an account?
 faq-is-account-public-q = Is my account information public?
@@ -547,24 +553,24 @@ faq-is-account-public-q = Is my account information public?
 faq-how-privacy-q = How do you ensure anonymity and privacy of the people who donated their voices?
 faq-how-privacy-a = All voice clips in the dataset are scrubbed of personally identifying information. When a contributor provides demographic data via their profile, that information is de-identified from their voice clips before being bundled for download in the dataset and is never made public on their profile page.
 
-faq-what-determine-identity-q = What does it mean that I can’t “determine the identity” of speakers in the Common Voice dataset?
+faq-what-determine-identity-q = What does it mean that I can’t “determine the identity” of speakers in the Sumbang Suara dataset?
 faq-what-determine-identity-a =
-    The Common Voice dataset is an open and publicly available resource that can be used to train a wide variety of speech-enabled applications. To protect the security of our contributors, we ask everyone who downloads the Common Voice dataset to respect contributors’ privacy.
+    The Sumbang Suara dataset is an open and publicly available resource that can be used to train a wide variety of speech-enabled applications. To protect the security of our contributors, we ask everyone who downloads the Sumbang Suara dataset to respect contributors’ privacy.
 
     All voice clips in the dataset are scrubbed of personally identifying information. When you download the dataset, you agree to not attempt to determine the identity of any contributor. That means you cannot try to link information in the dataset to a contributor’s personal information. You may, however, use the dataset to train speech recognition, speaker recognition, or other applications, by, for instance, linking information in the dataset to other information already in the dataset.
 
-faq-what-is-cv = What is Common Voice?
-faq-using-cv = Using Common Voice
-faq-description = Common Voice is part of Mozilla's initiative to help teach machines how real people speak.
+faq-what-is-cv = What is Sumbang Suara?
+faq-using-cv = Using Sumbang Suara
+faq-description = Sumbang Suara is part of Mozilla's initiative to help teach machines how real people speak.
 faq-search-for-answers =
     .label = Search for answers
 
 ## ABOUT US
-about-title = Why Common Voice?
-about-header-description-v2 = <p>Common Voice is a publicly available voice dataset, powered by the voices of volunteer contributors around the world. People who want to build voice applications can use the dataset to train machine learning models.</p>
+about-title = Why Sumbang Suara?
+about-header-description-v2 = <p>Sumbang Suara is a publicly available voice dataset, powered by the voices of volunteer contributors around the world. People who want to build voice applications can use the dataset to train machine learning models.</p>
     <p>At present, most voice datasets are owned by companies, which stifles innovation. Voice datasets also underrepresent: non-English speakers, people of colour, disabled people, women and LGBTQIA+ people. This means that voice-enabled technology doesn’t work at all for many languages, and where it does work, it may not perform equally well for everyone. We want to change that by mobilising people everywhere to share their voice.</p>
 
-how-does-it-work-title-v2 = How does Common Voice work?
+how-does-it-work-title-v2 = How does Sumbang Suara work?
 how-does-it-work-text = We’re crowdsourcing an open-source dataset of voices. Donate your voice, validate the accuracy of other people’s clips, make the dataset better for everyone.
 
 ## How does it work section
@@ -574,7 +580,7 @@ about-localization-subtitle = The website text is translated into that language.
 about-sentence-collection-title = Sentence Collection
 about-sentence-collection-subtitle = Sentences are collected for people to read aloud.
 about-new-lang-title = New Language Launch
-about-new-lang-subtitle = We launch the Common Voice site in this language.
+about-new-lang-subtitle = We launch the Sumbang Suara site in this language.
 about-voice-contrib-title = Voice Contribution
 about-voice-contrib-subtitle = People come and contribute their voices.
 about-voice-validation-title = Voice Validation
@@ -582,7 +588,7 @@ about-voice-validation-subtitle = Other people validate those voice clips.
 about-dataset-release-title = Dataset Release
 about-dataset-release-subtitle = We release the dataset every 3 months.
 
-about-subscribe-text = Want to stay in touch with Common Voice?
+about-subscribe-text = Want to stay in touch with Sumbang Suara?
 
 about-speak = Speak
 about-speak-text = Contributors record voice clips by reading from a bank of donated sentences.
@@ -593,24 +599,24 @@ about-listen-text = Users validate the accuracy of donated clips, checking that 
 about-is-it-valid = Is the clip valid?
 about-is-it-valid-text = A voice clip is marked "valid" when a user gives it a Yes vote.
 about-yes-votes = ≥ 2 Yes votes
-about-yes-votes-text = To make it into the Common Voice dataset, a voice clip must be validated by two separate users.
+about-yes-votes-text = To make it into the Sumbang Suara dataset, a voice clip must be validated by two separate users.
 about-no-votes = ≥ 2 No votes
 about-no-votes-text = When a user rejects a voice clip it returns to the Queue. If rejected a second time, the voice clip is moved to the Clip Graveyard.
-about-dataset-new = Common Voice Dataset
-about-dataset-new-text = The Common Voice Dataset contains hundreds of thousands of voice samples that help developers build voice recognition tools.
+about-dataset-new = Sumbang Suara Dataset
+about-dataset-new-text = The Sumbang Suara Dataset contains hundreds of thousands of voice samples that help developers build voice recognition tools.
 about-clip-graveyard = Clip Graveyard
-about-clip-graveyard-text = The Clip Graveyard consists of voice clips that didn't make it into the Common Voice dataset. Just like the dataset, the Clip Graveyard is available for download.
+about-clip-graveyard-text = The Clip Graveyard consists of voice clips that didn't make it into the Sumbang Suara dataset. Just like the dataset, the Clip Graveyard is available for download.
 
     We would like to thank the following people and organizations for their help with the project:
 about-get-involved = Get involved
-about-get-involved-text-2 = Want to help make Common Voice even better?
+about-get-involved-text-2 = Want to help make Sumbang Suara even better?
     Great! Get in touch via email or <discourseLink>Discourse</discourseLink>
     forums, submit site issues via <githubLink>GitHub</githubLink>, or join the
     <matrixLink>Matrix</matrixLink> community chat.
 
 about-stay-in-touch = How do I stay in touch?
 about-stay-in-touch-button = Sign up
-about-stay-in-touch-text-1 = <emailFragment>Sign up</emailFragment> to our mailing list to learn how you can take part in campaigns, events and co-design features on Common Voice.
+about-stay-in-touch-text-1 = <emailFragment>Sign up</emailFragment> to our mailing list to learn how you can take part in campaigns, events and co-design features on Sumbang Suara.
 about-stay-in-touch-text-2 = You can meet others in the Mozilla language communities by joining <discourseLink>Discourse</discourseLink> for topical conversations, or <matrixLink>Matrix</matrixLink> for quick advice.
 
 about-nav-why-common-voice = Why ?
@@ -618,13 +624,13 @@ about-nav-how-it-works = How ?
 about-nav-partners = Partners
 about-nav-get-involved = Get involved
 
-about-nav-how-it-works-2 = How does Common Voice work?
+about-nav-how-it-works-2 = How does Sumbang Suara work?
 about-nav-playbook = Learn how to take part
 
 ## Community Playbook Content
 ## What is a language
-about-playbook-what-is-language = What is a language on Common Voice?
-about-playbook-what-is-language-content-1 = There are lots of ways to think about language. For the purposes of speech recognition models, Common Voice suggests focussing on ‘mutual intelligibility’, or ‘can speakers of this language mostly understand one another if they try to?’
+about-playbook-what-is-language = What is a language on Sumbang Suara?
+about-playbook-what-is-language-content-1 = There are lots of ways to think about language. For the purposes of speech recognition models, Sumbang Suara suggests focussing on ‘mutual intelligibility’, or ‘can speakers of this language mostly understand one another if they try to?’
 about-playbook-what-is-language-content-2 = We want speech models to be better at understanding a diverse range of speakers. For this to happen, a voice dataset must represent lots of different people.
 about-playbook-what-is-language-content-3 = Some languages have enormous variation in grammar, vocabulary and pronunciation. For this reason, we are <ctaLink>introducing ‘Variants’</ctaLink> in 2022. This gives communities a way to distinguish their languages within the larger dataset.
 
@@ -640,7 +646,7 @@ about-playbook-how-add-language-translating-content-1 =
 about-playbook-how-add-language-translating-content-2 =
     We use a Mozilla tool called <pontoonLink>Pontoon</pontoonLink> for translations. Pontoon has lots of languages,
     but if it doesn’t have yours you can <pontoonRequestLink>request for your language to be added</pontoonRequestLink>.
-    Then, to make the language available on the Common Voice project,
+    Then, to make the language available on the Sumbang Suara project,
     <githubRepoLink>request the new language on GitHub</githubRepoLink>. <localizationFragment>See more on site translation</localizationFragment>.
 about-playbook-how-add-language-collecting-sentences-heading = Collecting sentences
 about-playbook-how-add-language-collecting-sentences-content-1 =
@@ -654,8 +660,8 @@ about-playbook-how-add-language-collecting-sentences-content-3 =
 
 ## How does localization work
 about-playbook-how-localize = How does site localization work?
-about-playbook-how-localize-content-1 = Translation of the Common Voice site happens on <strong>Pontoon</strong>.
-about-playbook-how-localize-content-2 = <pontoonAccountLink>Create an account</pontoonAccountLink> if you don’t have one. Then, choose your language <strong>(‘Team’)</strong> and then choose the project, <pontoonCvLink>Common Voice</pontoonCvLink>. There will be files to translate. Click on one, then it shows words in English and a box to translate them.
+about-playbook-how-localize-content-1 = Translation of the Sumbang Suara site happens on <strong>Pontoon</strong>.
+about-playbook-how-localize-content-2 = <pontoonAccountLink>Create an account</pontoonAccountLink> if you don’t have one. Then, choose your language <strong>(‘Team’)</strong> and then choose the project, <pontoonCvLink>Sumbang Suara</pontoonCvLink>. There will be files to translate. Click on one, then it shows words in English and a box to translate them.
 about-playbook-how-localize-content-3 = Translation is from English, but you can see <strong>Suggestions</strong> in other languages. Click the <strong>Profile</strong> icon, then <strong>Settings</strong> link and add any languages you speak. At the bottom right-hand corner will be a list of translations called <strong>Locales</strong>. Translations show on the site after one day.
 about-playbook-how-localize-content-4 = The site is ready to be launched when it reaches 75% completion.
 about-playbook-how-localize-content-5 = Watch our video explainer to help
@@ -663,7 +669,7 @@ about-playbook-how-localize-content-5 = Watch our video explainer to help
 ## How to add sentences
 about-playbook-how-add-sentences = How do I add sentences?
 about-playbook-how-add-sentences-content-1 = You can add sentences on the <writePageLink>Write page</writePageLink> or review sentences on the <reviewPageLink>Review page</reviewPageLink>.
-about-playbook-how-add-sentences-content-2 = Sentences must be reviewed and accepted by two people to be included in Common Voice. You create guidelines for your language <languageGuidelinesLink>here</languageGuidelinesLink>. Sentences must be in the <licenseLink>public domain</licenseLink> and shorter than 15 words. You can ask the owner of a text to make it <waiverLink>CC0 using our waiver process</waiverLink>, and send to us on commonvoice@mozilla.com
+about-playbook-how-add-sentences-content-2 = Sentences must be reviewed and accepted by two people to be included in Sumbang Suara. You create guidelines for your language <languageGuidelinesLink>here</languageGuidelinesLink>. Sentences must be in the <licenseLink>public domain</licenseLink> and shorter than 15 words. You can ask the owner of a text to make it <waiverLink>CC0 using our waiver process</waiverLink>, and send to us on commonvoice@mozilla.com
 about-playbook-how-add-sentences-content-3 = You can use the <scraperLink>Sentence extractor</scraperLink> to leverage short sentences from Wikipedia.
 
 ## How to record quality
@@ -675,8 +681,8 @@ about-playbook-how-record-content-4 = Make sure the platform is recording before
 about-playbook-how-record-content-5 = <accuracyLink>See more on accuracy criteria.</accuracyLink>
 
 ## How to grow language
-about-playbook-how-grow-language = How can we effectively grow a language on Common Voice?
-about-playbook-how-grow-language-content-1 = Creating opportunities for a diversity of people to contribute to Common Voice ensures the dataset serves as many people as possible. We’ve created resources and templates that you can use!
+about-playbook-how-grow-language = How can we effectively grow a language on Sumbang Suara?
+about-playbook-how-grow-language-content-1 = Creating opportunities for a diversity of people to contribute to Sumbang Suara ensures the dataset serves as many people as possible. We’ve created resources and templates that you can use!
 about-playbook-how-grow-language-content-2 = Events
 about-playbook-how-grow-language-content-3 = You can run events to help people contribute. It’s easier than you think. You could do it online with a videoconferencing tool, or in person if it’s safe. <eventTemplate>Check out our templates and resources for running events</eventTemplate>.
 about-playbook-how-grow-language-content-4 = Social media
@@ -700,7 +706,7 @@ about-playbook-how-access-dataset-content-2 = If you’re looking for tools to b
 
 ## How are decisions made
 about-playbook-how-project-governance = How are project decisions made?
-about-playbook-how-project-governance-content-1 = Mozilla Common Voice is made possible by a diverse community of activists, linguists, data scientists, academics and software engineers from all over the world. The project is stewarded by the Mozilla Foundation.
+about-playbook-how-project-governance-content-1 = Mozilla Sumbang Suara is made possible by a diverse community of activists, linguists, data scientists, academics and software engineers from all over the world. The project is stewarded by the Mozilla Foundation.
 about-playbook-how-project-governance-content-2 = Our governance is founded on the pillars of:
 about-playbook-how-project-governance-content-3 = Privacy, security and transparency.
 about-playbook-how-project-governance-content-4 = Community participation and decision making.
@@ -708,9 +714,9 @@ about-playbook-how-project-governance-content-5 = Value and recognition.
 about-playbook-how-project-governance-content-6 = Mutual accountability.
 about-playbook-how-project-governance-content-7 = <governanceLink>Read more about how we're governed</governanceLink>
 
-## How is Common Voice funded
-about-playbook-how-funded = How is Common Voice funded?
-about-playbook-how-funded-content-1 = Common Voice is a project of the Mozilla Foundation, a US 501c3. The project is currently funded entirely by <philantropicGrantLink>philanthropic grants</philantropicGrantLink>, and donations from people around the world.
+## How is Sumbang Suara funded
+about-playbook-how-funded = How is Sumbang Suara funded?
+about-playbook-how-funded-content-1 = Sumbang Suara is a project of the Mozilla Foundation, a US 501c3. The project is currently funded entirely by <philantropicGrantLink>philanthropic grants</philantropicGrantLink>, and donations from people around the world.
 about-playbook-how-funded-content-2 = It costs a lot of money to continually host and release the datasets, improve the platform and run <africaMradiLink>community programmes</africaMradiLink>.
 about-playbook-how-funded-content-3 = If you or your organisation would like to contribute back to the project, you can make a <donateLink>donation</donateLink> or reach out to our partnerships team on <emailFragment>commonvoice@mozilla.com</emailFragment>.
 
@@ -735,7 +741,7 @@ error-content-503 = The site will be back up as soon as possible. For the latest
 error-code = Error { $code }
 
 ## Data
-data-download-button = Download Common Voice Data
+data-download-button = Download Sumbang Suara Data
 data-download-yes = Yes
 data-download-deny = No
 data-download-license = License: <licenseLink>CC-0</licenseLink>
@@ -747,7 +753,7 @@ data-other-title = Other voice datasets…
 data-other-goto = Go to { $name }
 data-other-download = Download Data
 data-bundle-button = Download Dataset Bundle
-data-bundle-description = Common Voice data plus all other voice datasets above.
+data-bundle-description = Sumbang Suara data plus all other voice datasets above.
 release-version = Version
 dataset-date = Date
 license = License: <licenseLink>{ $license }</licenseLink>
@@ -755,7 +761,7 @@ license-mixed = Mixed
 data-download-singleword-title = Download the Single Word Target Segment
 data-download-singleword-callout-v2 = This is a use case driven segment containing data to power spoken digit recognition and yes / no detection.
 
-review-terms = By using Common Voice, you agree to our <termsLink>Terms</termsLink> and <privacyLink>Privacy Notice</privacyLink>
+review-terms = By using Sumbang Suara, you agree to our <termsLink>Terms</termsLink> and <privacyLink>Privacy Notice</privacyLink>
 terms-agree = I agree
 terms-disagree = I do not agree
 review-aborted = Upload aborted. Do you want to delete your recordings?
@@ -773,9 +779,9 @@ datasets-headline = We’re building an open source, multi-language dataset of v
 datasets-positioning =
     We believe that large, publicly available voice datasets will foster innovation and healthy commercial competition in machine-learning based speech technology.
 
-    Common Voice’s multi-language dataset is already the largest publicly available voice dataset of its kind, but it’s not the only one.
+    Sumbang Suara’s multi-language dataset is already the largest publicly available voice dataset of its kind, but it’s not the only one.
 
-    Look to this page as a reference hub for other open source voice datasets and, as Common Voice continues to grow, a home for our release updates.
+    Look to this page as a reference hub for other open source voice datasets and, as Sumbang Suara continues to grow, a home for our release updates.
 language = Language
 download-dataset-header = Download the Dataset
 download-delta-explainer = We’ve made some changes. Delta Segments just contain the most recent clips since the last release. <deltaLink>Read more about this work</deltaLink>.
@@ -791,21 +797,21 @@ number-of-voices = Number of Voices
 splits = Splits
 email-to-download = Enter Email to Download
 why-email = <b>Why an email?</b> We may need to contact you in the future about changes to the dataset, an email provides us a point of contact.
-why-donate-datasets-page = Mozilla Common Voice is the world’s most diverse crowdsourced open speech dataset - and we’re powered entirely by donations. It costs almost a million dollars a year to host the datasets and improve the platform for the 100+ language communities who rely on what we do. If you value open, inclusive data - <b>donate today!</b>
+why-donate-datasets-page = Mozilla Sumbang Suara is the world’s most diverse crowdsourced open speech dataset - and we’re powered entirely by donations. It costs almost a million dollars a year to host the datasets and improve the platform for the 100+ language communities who rely on what we do. If you value open, inclusive data - <b>donate today!</b>
 confirm-size = You are prepared to initiate a download of <b>{ $size }</b>
 size-gigabyte = GB
 size-megabyte = MB
-confirm-no-identify = <b>You agree</b> to not attempt to determine the identity of speakers in the Common Voice dataset
-confirm-join-mailing-list = You want to join the Common Voice mailing list
+confirm-no-identify = <b>You agree</b> to not attempt to determine the identity of speakers in the Sumbang Suara dataset
+confirm-join-mailing-list = You want to join the Sumbang Suara mailing list
 download-language = Download { $language }
 validated-hours = Validated Hours
 recorded-hours = Recorded Hours
-whats-inside = What’s inside the Common Voice dataset?
+whats-inside = What’s inside the Sumbang Suara dataset?
 dataset-description-hours =
         Each entry in the dataset consists of a unique MP3 and corresponding text file. Many of the <b>{ $total }</b> recorded hours in the dataset also include demographic metadata like age, sex, and accent that can help train the accuracy of speech recognition engines.
 
         The dataset currently consists of <b>{ $valid }</b> validated hours in <b>{ $languages }</b> languages, but we’re always adding more voices and languages. Take a look at our <languagesLink>Languages page</languagesLink> to request a language or start contributing.
-want-dataset-update = Want updates when we release a new version of the Common Voice dataset? Subscribe to our newsletter.
+want-dataset-update = Want updates when we release a new version of the Sumbang Suara dataset? Subscribe to our newsletter.
 subscribe = Subscribe
 get-started-speech = Get Started with Speech Recognition
 other-datasets = Other Voice Datasets
@@ -817,14 +823,14 @@ resource-nemo-info = <githubLink>NVIDIA NeMo</githubLink>™ is an <docsLink>ope
 resource-deepspeech-info = Mozilla’s open source voice recognition engine Deep Speech can be used to build speech recognition applications. Read our <githubLink>Github overview</githubLink> or join the <discourseLink>DeepSpeech Discourse</discourseLink> to learn how to get started.
 resource-coqui-info = <coquiLink>Coqui</coquiLink> is dedicated to open speech technology. Their projects include deep learning based STT and TTS engines.
 community-playbook = Community Playbook
-resource-playbook-info = <playbookLink>Find helpful guidance</playbookLink> on the entire Common Voice journey, from localisation to dataset usage, as well as how to connect with our community.
+resource-playbook-info = <playbookLink>Find helpful guidance</playbookLink> on the entire Sumbang Suara journey, from localisation to dataset usage, as well as how to connect with our community.
 
 data-other-librispeech-description = LibriSpeech is a corpus of approximately 1000 hours of 16Khz read English speech derived from read audiobooks from the LibriVox project.
 data-other-ted-name = TED-LIUM Corpus
 data-other-ted-description = The TED-LIUM corpus was made from audio talks and their transcriptions available on the TED website.
 data-other-voxforge-description = VoxForge was set up to collect transcribed speech for use with Free and Open Source Speech Recognition Engines.
 data-other-tatoeba-description = Tatoeba is a large database of sentences, translations, and spoken audio for use in language learning. This download contains spoken English recorded by their community.
-your-feedback = Do you have ideas on how we can make the Common Voice dataset better? Let us know on Discourse
+your-feedback = Do you have ideas on how we can make the Sumbang Suara dataset better? Let us know on Discourse
 go-discourse = Go to Discourse
 missing-language = Don’t see your language reflected in the Dataset? To request a language head over to our Languages page.
 go-languages-page = Go to Languages Page
@@ -852,7 +858,7 @@ download-helpus = Help us build a community around voice technology, stay in tou
 download-form-email =
     .label = Enter your email
     .value = Thank you, we'll be in touch.
-download-back = Return to Common Voice Datasets
+download-back = Return to Sumbang Suara Datasets
 download-no = No Thanks
 
 ## Contact Modal
@@ -868,7 +874,7 @@ request-language-title = Language Request
 request-language-form-language =
     .label = Language
 request-language-success-title = Language request successfully submitted, thank you.
-request-language-success-content = We will be in touch with more information about how to add your language to Common Voice very soon.
+request-language-success-content = We will be in touch with more information about how to add your language to Sumbang Suara very soon.
 select-language = Select a Language...
 other-language = Other Language
 
@@ -876,7 +882,7 @@ other-language = Other Language
 request-language-heading = Ask about a new language
 request-language-explanation-1 =
     Check if your language is listed on the
-    <languagesPageLink>Common Voice Languages page</languagesPageLink>.
+    <languagesPageLink>Sumbang Suara Languages page</languagesPageLink>.
     If not, fill out this form and we’ll <strong>send you a handy email
     explaining how to get your language set up</strong>.
 request-language-explanation-2 =
@@ -906,7 +912,7 @@ request-language-success-heading =
     Thank you! You’ve sent a new language enquiry
 request-language-success-list-1 =
     You should receive an email shortly explaining
-    the steps to get your language added to Common Voice
+    the steps to get your language added to Sumbang Suara
 request-language-success-list-2 =
     Our community manager will reach out to you to offer
     extra support, and to let you know if there is
@@ -951,8 +957,8 @@ clips-with-count-pluralized = { $count ->
                     [one] <bold>{ $count }</bold> Clip
                     *[other] <bold>{ $count }</bold> Clips
 }
-goal-help-recording = You've helped Common Voice reach <goalPercentage></goalPercentage> of our daily { $goalValue } recording goal!
-goal-help-validation = You've helped Common Voice reach <goalPercentage></goalPercentage> of our daily { $goalValue } validation goal!
+goal-help-recording = You've helped Sumbang Suara reach <goalPercentage></goalPercentage> of our daily { $goalValue } recording goal!
+goal-help-validation = You've helped Sumbang Suara reach <goalPercentage></goalPercentage> of our daily { $goalValue } validation goal!
 contribute-more =
     { $count ->
        *[other] Ready to do { $count } more?
@@ -975,7 +981,7 @@ record-again-instruction2 = Keep it up, record again <recordIcon></recordIcon>
 record-last-instruction = <recordIcon></recordIcon> Last one!
 review-tooltip = Review & re-record clips here as you go
 share-clip = Share your clip
-share-common-voice = Share Common Voice
+share-common-voice = Share Sumbang Suara
 review-instruction = Review & re-record clips if needed
 record-submit-tooltip = { $actionType } submit when ready
 clips-uploaded = Clips Uploaded
@@ -1006,7 +1012,7 @@ keep-track-profile = Keep track of your progress with a profile
 login-to-get-started = Log in or sign up to get started
 target-segment-first-card = You’re contributing to our first target segment
 target-segment-generic-card = You’re contributing to a target segment
-target-segment-first-banner = Help create Common Voice’s first target segment in { $locale }
+target-segment-first-banner = Help create Sumbang Suara’s first target segment in { $locale }
 target-segment-add-voice = Add Your Voice
 target-segment-learn-more = Learn More
 
@@ -1057,8 +1063,8 @@ toward-next-goal = Toward next goal
 goal-reached = Goal reached
 clips-you-recorded = Clips You've Recorded
 clips-you-validated = Clips You've Validated
-todays-recorded-progress = Today's Common Voice progress on clips recorded
-todays-validated-progress = Today's Common Voice progress on clips validated
+todays-recorded-progress = Today's Sumbang Suara progress on clips recorded
+todays-validated-progress = Today's Sumbang Suara progress on clips validated
 stats = Stats
 awards = Awards
 you = You
@@ -1095,7 +1101,7 @@ help-reach-hours-pluralized = Help reach { NUMBER($hours) ->
 [one] {$hours} hour
 *[other] {$hours} hours
  } in { $language } with a personal goal
-help-reach-hours-general-pluralized = Help Common Voice reach { NUMBER($hours) ->
+help-reach-hours-general-pluralized = Help Sumbang Suara reach { NUMBER($hours) ->
   [one] {$hours} hour
   *[other] {$hours} hours
  } in a language with a personal goal
@@ -1118,9 +1124,9 @@ how-many-per-day = Great! How many clips per day?
 how-many-a-week = Great! How many clips a week?
 which-goal-type = Do you want to Speak, Listen or both?
 receiving-emails-info = You're currently set to receive emails such as goal reminders, my
-        progress updates and newsletters about Common Voice
+        progress updates and newsletters about Sumbang Suara
 not-receiving-emails-info = You're currently set to <bold>NOT</bold> receive emails such as goal reminders, my
-        progress updates and newsletters about Common Voice
+        progress updates and newsletters about Sumbang Suara
 n-clips-pluralized = { NUMBER($count) ->
               [one] {$count} clip
               *[other] {$count} clips
@@ -1144,12 +1150,12 @@ return-to-edit-goal = Return here to edit your goal anytime.
 share-goal = Share my goal
 
 ## Profile Delete
-delete-q = Would you like to request your voice recordings be deleted too, or do you prefer to keep them in the Common Voice dataset?
+delete-q = Would you like to request your voice recordings be deleted too, or do you prefer to keep them in the Sumbang Suara dataset?
 keep = Keep
 remove = Remove
-keep-info = Your anonymous voice recordings will remain in the Common Voice dataset. Once you delete your profile you will no longer be able to submit a request to remove your recordings from the dataset
+keep-info = Your anonymous voice recordings will remain in the Sumbang Suara dataset. Once you delete your profile you will no longer be able to submit a request to remove your recordings from the dataset
 remove-info = We will review your request to remove your voice recordings from the dataset. If your request is approved, we will contact those who have downloaded the dataset and request they remove your voice recordings as well.
-why-delete-recordings = Common Voice recordings are used by academics, small businesses, and voice recognition enthusiasts to help train and grow publicly available resources like voice models.
+why-delete-recordings = Sumbang Suara recordings are used by academics, small businesses, and voice recognition enthusiasts to help train and grow publicly available resources like voice models.
 
     Can you let us know why you would like your recordings deleted?
 profile-form-delete = Delete Profile
@@ -1186,7 +1192,7 @@ download-request-link-single = You can also copy and paste the direct URLs into 
 
 ## Landing
 welcome-staff = Welcome { $company } staff!
-help-contribute = You can help build a diverse, open-source dataset by creating a Common Voice profile and contributing your voice.
+help-contribute = You can help build a diverse, open-source dataset by creating a Sumbang Suara profile and contributing your voice.
 login-company = Log In / Sign Up with { $company } email
 profile-not-required = Having a profile is not required to contribute though it is helpful, see why below.
 read-more-about = Read more on our About page
@@ -1194,11 +1200,11 @@ read-more-about = Read more on our About page
 
 ## DemoLayout
 demo-get-started = Let's Get Started
-demo-welcome = Welcome to Common Voice
+demo-welcome = Welcome to Sumbang Suara
 demo-welcome-subheader = Interested in learning more and contributing to the project?
 
 ## Demo Datasets
-demo-language-select-card-header = Common Voice is the world’s largest publicly available, multi-language voice dataset.
+demo-language-select-card-header = Sumbang Suara is the world’s largest publicly available, multi-language voice dataset.
 demo-language-select-card-body = Thanks to contributions from over 259k people in over 50 languages, this data is being used to train speech-enabled applications to better respond to the human voice.
 card-button-next = Next
 card-button-back = Back
@@ -1209,14 +1215,14 @@ demo-account = Account
 
 ## Demo Account
 demo-account-card-header = Having an account is not required to contribute, though it is helpful.
-demo-account-card-body = To the right we outline the benefits and clarify what information we make public. Use the links below to get started with a Common Voice account on your own device.
+demo-account-card-body = To the right we outline the benefits and clarify what information we make public. Use the links below to get started with a Sumbang Suara account on your own device.
 demo-account-enter-email =
 .label = Enter email to send a sign up link
 demo-account-sign-up = Send sign up link
 
 ## Demo Contribute
 demo-contribute-card-header = Ready to add your voice or lend your ear?
-demo-contribute-card-body-v2 = Now that you know a little bit more about Common Voice, why not try it out? Click on the microphone icon to start reading sentences aloud. <br/><br/>If you prefer to review other people's voice contributions, click on the play icon. You’ll help confirm that recordings match the sentences written on screen.
+demo-contribute-card-body-v2 = Now that you know a little bit more about Sumbang Suara, why not try it out? Click on the microphone icon to start reading sentences aloud. <br/><br/>If you prefer to review other people's voice contributions, click on the play icon. You’ll help confirm that recordings match the sentences written on screen.
 demo-listen-subtitle = Ready to contribute?
 
 ## Demo Dashboard
@@ -1313,8 +1319,8 @@ sc-login-signup-button = Login / Signup
 sc-logout-button = Logout
 
 ## HOME
-sc-home-title = Welcome to the Common Voice Sentence Collector
-sc-home-intro = The Sentence Collector is part of <commonVoiceLink>Common Voice</commonVoiceLink>. It allows contributors to collect and validate sentences created by the community. You can use this tool also to import and clean-up small-to-medium-sized public domain corpus you have found or collected. All sentences need to be Public Domain. Approved sentences are exported every week to the Common Voice repository and are released on the Common Voice website on every new deployment.
+sc-home-title = Welcome to the Sumbang Suara Sentence Collector
+sc-home-intro = The Sentence Collector is part of <commonVoiceLink>Sumbang Suara</commonVoiceLink>. It allows contributors to collect and validate sentences created by the community. You can use this tool also to import and clean-up small-to-medium-sized public domain corpus you have found or collected. All sentences need to be Public Domain. Approved sentences are exported every week to the Sumbang Suara repository and are released on the Sumbang Suara website on every new deployment.
 sc-home-collect-title = Collect sentences
 sc-home-collect-text = Help us by writing or collecting Public Domain sentences.
 sc-home-review-title = Review sentences
@@ -1328,7 +1334,7 @@ sc-howto-title = How to
 sc-howto-addlang-title = Adding languages to work with
 sc-howto-addlang-text = Once logged in you can select your languages from the profile section.
 sc-howto-addsen-title = Add new sentences
-sc-howto-addsen-item-1 = All sentences you submit must be under <wikipediaLink>Public Domain (CC-0) license</wikipediaLink>. To support the inclusion of work not under public licence, we have created a <cc0WaiverLink>Contributions Agreement template</cc0WaiverLink> for works where the copyright owner would like to contribute the material to Common Voice.
+sc-howto-addsen-item-1 = All sentences you submit must be under <wikipediaLink>Public Domain (CC-0) license</wikipediaLink>. To support the inclusion of work not under public licence, we have created a <cc0WaiverLink>Contributions Agreement template</cc0WaiverLink> for works where the copyright owner would like to contribute the material to Sumbang Suara.
 sc-howto-addsen-item-2 = Numbers. There should be no digits in the source text because they can cause problems when read aloud. The way a number is read depends on context and might introduce confusion in the dataset. For example, the number “2409” could be accurately read as both “twenty-four zero nine” and “two thousand four hundred nine”.
 sc-howto-addsen-item-3 = Abbreviations and Acronyms. Abbreviations and acronyms like “USA” or “ICE” should be avoided in the source text because they may be read in a way that does not coincide with their spelling. Additionally, there may be multiple accurate readings for a single abbreviation. For example, the acronym “ICE” could be pronounced “I-C-E” or as a single word.
 sc-howto-addsen-item-4 = Punctuation. Special symbols and punctuation should only be included when absolutely necessary. For example, an apostrophe is included in English words like “don’t” and “we’re” and should be included in the source text, but it’s unlikely you’ll ever need a special symbol like “@” or “#.”
@@ -1337,8 +1343,8 @@ sc-howto-addsen-item-6 = Languages can have their <validationRulesLink>own valid
 sc-howto-addsen-post-1 = We prefer natural/conversational sentences. While phonetic diversity and different words in sentences is important, we are trying to make recording sentences as much fun as possible. Therefore it would be great if you could try to keep your sentences as natural/engaging as possible.
 sc-howto-cite-title = How to Cite
 sc-howto-cite-pre-1 = It's important that you reference where you found the public licence to avoid plagiarism and to allow for follow ups on <copyrightIssuesLink>copyright issues</copyrightIssuesLink>. Here are a few ways you can cite the work.
-sc-howto-cite-item-1 = You could include the website, e.g "Common Voice - https://commonvoice.mozilla.org/"
-sc-howto-cite-item-2 = You could use academic referencing style, e.g Harvard style "Mozilla (2021) Common Voice. Available at https://commonvoice.mozilla.org/ (Accessed: 15th September 2021)"
+sc-howto-cite-item-1 = You could include the website, e.g "Sumbang Suara - https://commonvoice.mozilla.org/"
+sc-howto-cite-item-2 = You could use academic referencing style, e.g Harvard style "Mozilla (2021) Sumbang Suara. Available at https://commonvoice.mozilla.org/ (Accessed: 15th September 2021)"
 sc-howto-cite-item-3 = For public domain text not available online, you could use academic referencing style e.g Harvard style "Jess (2021) My Public licence poems"
 sc-howto-review-title = Review Sentences
 sc-howto-review-subtitle = Make sure the sentence meets the following criteria:
@@ -1388,7 +1394,7 @@ sc-stats-error = We could not fetch the stats. Please try again later.
 # Variables:
 #   $sentenceCount (Number) - Total number of sentences uploaded through Sentence Collector
 #   $languageCount (Number) - Total number of languages these sentences represent
-sc-stats-summary = The Common Voice Sentence Collector has collected { $sentenceCount } sentences in { $languageCount } languages!
+sc-stats-summary = The Sumbang Suara Sentence Collector has collected { $sentenceCount } sentences in { $languageCount } languages!
 
 ## ADD
 sc-submit-err-select-lang = Please select a language.
@@ -1601,11 +1607,11 @@ localization-select =
 
 # PARTNERSHIPS PAGE
 partnerships-header = Partnerships
-partnerships-header-text = It takes a lot to make Common Voice happen! We don't do it alone. Want to partner with us? We'd love to hear from you.
+partnerships-header-text = It takes a lot to make Sumbang Suara happen! We don't do it alone. Want to partner with us? We'd love to hear from you.
 partnerships-get-in-touch = Get in touch
-partnerships-become-a-partner = Become a Common Voice Partner
+partnerships-become-a-partner = Become a Sumbang Suara Partner
 partnerships-community-header = Community, Creatives and Civil Society
-partnerships-community-description = The community is the beating heart of Common Voice - they come from all over the world, and are language activists and scientists and artists. You can learn more about how to get involved on our <about>About</about> page and in our <community>Community playbook</community>. If you're interested in deeper organisational partnership, <emailFragment>get in touch.</emailFragment>
+partnerships-community-description = The community is the beating heart of Sumbang Suara - they come from all over the world, and are language activists and scientists and artists. You can learn more about how to get involved on our <about>About</about> page and in our <community>Community playbook</community>. If you're interested in deeper organisational partnership, <emailFragment>get in touch.</emailFragment>
 partnerships-foundations-header = Foundations
 partnerships-foundations-description = We work with foundations, civil society and community partners to make the internet a healthier place, with a particular focus on East Africa. Learn more about our <programmaticWork>programmatic work.</programmaticWork> 
 partnerships-governments-header = Governments
@@ -1644,7 +1650,7 @@ img-alt-success-checkmark = success checkmark
 
 # GUIDELINES PAGE
 guidelines-header = Contribution Guidelines
-guidelines-header-subtitle = Understand how to contribute and validate sentences and audio clips to the Common Voice dataset
+guidelines-header-subtitle = Understand how to contribute and validate sentences and audio clips to the Sumbang Suara dataset
 voice-collection = Voice Collection
 sentence-collection = Sentence Collection
 varying-pronunciations = Varying Pronunciations
@@ -1690,13 +1696,13 @@ volume-explanation = There will be natural variations in volume between readers.
 reader-effects-explanation = Most recordings are of people talking in their natural voice. You can accept the occasional non-standard recording that is shouted, whispered, or obviously delivered in a ‘dramatic’ voice. Please reject sung recordings and those using a computer-synthesized voice.
 just-unsure-explanation = If you come across something that these guidelines don’t cover, please vote according to your best judgement. If you really can’t decide, use the skip button and go on to the next recording.
 still-have-questions = Still have questions?
-contact-common-voice = Contact the Common Voice team
+contact-common-voice = Contact the Sumbang Suara team
 public-domain = Public Domain
 citing-sentences = Citing Sentences
 adding-sentences = Adding Sentences
 reviewing-sentences = Reviewing Sentences
 sentence-domain = Sentence Domain
-public-domain-explanation-1 = It is very important that all text sentences are <publicDomain>public domain</publicDomain> (<cc0>cc0</cc0>) as the Common Voice dataset is released under a cc0 license. Only ever upload a sentence if you are sure, and always include the relevant citation.
+public-domain-explanation-1 = It is very important that all text sentences are <publicDomain>public domain</publicDomain> (<cc0>cc0</cc0>) as the Sumbang Suara dataset is released under a cc0 license. Only ever upload a sentence if you are sure, and always include the relevant citation.
 public-domain-explanation-2 = The best sentences for building a useful speech recognition engine are colloquial, modern parlance. Some ideas to help you generate sentences are;
 public-domain-explanation-3 = Create modern, colloquial sentences by yourself or with your friends or language community - for example through a ‘write-a-thon’
 public-domain-explanation-4 = Contact authors, playwrights or screenwriters and ask if they would be willing to dedicate a small portion of their works to the public domain
@@ -1704,9 +1710,9 @@ public-domain-explanation-5 = Look for text where the copyright no longer applie
 public-domain-explanation-6 = Reach out to governments, non-profits or media organizations to see whether any of their web content, reports or other content can be dedicated to the public domain
 citing-sentences-explanation-1 = It’s important to include citations so we can check that sentences are in the public domain and no copyright restriction apply.
 citing-sentences-subheader-websites = Websites
-citing-sentences-subheader-websites-explanation = You could include the website, e.g "Common Voice - https://commonvoice.mozilla.org/"
+citing-sentences-subheader-websites-explanation = You could include the website, e.g "Sumbang Suara - https://commonvoice.mozilla.org/"
 citing-sentences-subheader-academic-reference = Academic Reference
-citing-sentences-subheader-academic-reference-explanation = You could use academic referencing style, e.g Harvard style "Mozilla (2021) Common Voice. Available at https://commonvoice.mozilla.org/ (Accessed: 15th September 2021)"
+citing-sentences-subheader-academic-reference-explanation = You could use academic referencing style, e.g Harvard style "Mozilla (2021) Sumbang Suara. Available at https://commonvoice.mozilla.org/ (Accessed: 15th September 2021)"
 citing-sentences-subheader-offline-sources = Offline Sources
 citing-sentences-subheader-offline-sources-explanation = For public domain text that is not available online, you could use academic referencing style e.g Harvard style "Jess (2021) My Public license poems"
 citation = 
@@ -1843,7 +1849,7 @@ review-error-rate-limit-exceeded = You're going too fast. Please take a moment t
 
 # SENTENCE-COLLECTOR-REDIRECT PAGE
 sc-redirect-page-title = We're making some big changes
-sc-redirect-page-subtitle-1 = The Sentence Collector is moving to the core Common Voice platform. You can now <writeURL>write</writeURL> a sentence or <reviewURL>review</reviewURL> single sentence submissions on Common Voice.
+sc-redirect-page-subtitle-1 = The Sentence Collector is moving to the core Sumbang Suara platform. You can now <writeURL>write</writeURL> a sentence or <reviewURL>review</reviewURL> single sentence submissions on Sumbang Suara.
 sc-redirect-page-subtitle-2 = Ask us questions on <matrixLink>Matrix</matrixLink>, <discourseLink>Discourse</discourseLink> or <emailLink>email</emailLink>.
 
 ## BULK SUBMISSION 
@@ -1866,7 +1872,7 @@ sc-bulk-submit-confirm = I confirm that these sentence are <wikipediaLink>public
 bulk-upload-success-toast = Bulk Sentences Uploaded
 bulk-upload-failed-toast = Upload failed, please retry.
 bulk-submission-success-header = Thank you for contributing your bulk submission!
-bulk-submission-success-subheader = You're helping Common Voice reach our daily sentence goals!
+bulk-submission-success-subheader = You're helping Sumbang Suara reach our daily sentence goals!
 upload-more-btn-text = Upload more sentences?
 file-invalid-type = Invalid file
 file-too-large = File is too large
@@ -1880,4 +1886,4 @@ donate-banner-cta = <mark>We need</mark><br/><mark>your help!</mark>
 donate-banner-cta-explanation = It costs almost a million dollars a year to host the datasets and improve the platform for the 100+ language communities who rely on what we do. <strong>If you value open, inclusive data - donate today!</strong>
 # Text wrapped in <mark></mark> will have a white background.
 languages-donate-banner-cta = <mark>Using CV for</mark><br/><mark>your research?</mark>
-languages-donate-banner-cta-explanation = Common Voice is funded by donations and grants! We love collaborating with academics, civil society and industry researchers. Common Voice is free to use, but contributing to platform and hosting costs through grant proposals is really helpful.
+languages-donate-banner-cta-explanation = Sumbang Suara is funded by donations and grants! We love collaborating with academics, civil society and industry researchers. Sumbang Suara is free to use, but contributing to platform and hosting costs through grant proposals is really helpful.
